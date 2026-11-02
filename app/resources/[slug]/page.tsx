@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import LearningDetail from "../../../components/LearningDetail";
 import SpeakingGuide from "../../../components/SpeakingGuide";
@@ -7,7 +8,27 @@ export function generateStaticParams() {
   return resourcePages.map(({ slug }) => ({ slug }));
 }
 
-export default async function ResourceDetailPage({
+export default function ResourceDetailPage({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
+  return (
+    <Suspense
+      fallback={
+        <div className="content-page">
+          <section className="page-hero container">
+            <p role="status">Loading resource...</p>
+          </section>
+        </div>
+      }
+    >
+      <ResourceDetail params={params} />
+    </Suspense>
+  );
+}
+
+async function ResourceDetail({
   params,
 }: {
   params: Promise<{ slug: string }>;

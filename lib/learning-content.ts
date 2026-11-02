@@ -112,6 +112,12 @@ export const resourcePages = [
         title: "Make practice a habit",
         body: "Short, regular practice helps grammar become more natural. Review your mistakes and rewrite a few sentences correctly.",
       },
+      {
+        title: "Explore phrasal verbs",
+        body: "Learn how phrasal verbs work, understand their meanings in context, and practise using them naturally in IELTS Speaking.",
+        href: "/phrasal-verbs.md",
+        linkLabel: "Open the Phrasal Verbs Masterclass",
+      },
     ],
   },
 ] as const;

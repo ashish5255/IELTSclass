@@ -868,6 +868,17 @@ button {
   margin-bottom: 1.5rem;
 }
 
+.speaking-intro__layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(15rem, 19rem);
+  align-items: center;
+  gap: clamp(2rem, 5vw, 4rem);
+}
+
+.speaking-intro__copy .page-hero__intro {
+  max-width: 58ch;
+}
+
 .speaking-intro h1 {
   max-width: 17ch;
   margin: 0;
@@ -876,10 +887,168 @@ button {
   line-height: 1.08;
 }
 
+.speaking-intro__actions {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.speaking-resource-link {
+  display: grid;
+  gap: 0.35rem;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid color-mix(in srgb, var(--accent-from) 25%, transparent);
+  border-radius: var(--radius-md);
+  background: var(--accent-gradient);
+  color: #fff;
+  box-shadow: 0 12px 28px -16px color-mix(in srgb, var(--accent-from) 80%, transparent);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.speaking-resource-link:hover {
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 16px 30px -14px color-mix(in srgb, var(--accent-from) 85%, transparent);
+}
+
+.speaking-resource-link:focus-visible {
+  outline: 3px solid var(--primary);
+  outline-offset: 3px;
+}
+
+.speaking-resource-link__title {
+  font-size: 1.02rem;
+  font-weight: 750;
+  letter-spacing: -0.02em;
+}
+
+.speaking-resource-link__description {
+  color: rgb(255 255 255 / 0.88);
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
+
+.speaking-resource-link__action {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.3rem;
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
 .speaking-topics {
   display: grid;
   gap: 0.85rem;
   padding-block: 2rem 4rem;
+}
+
+.speaking-practice {
+  scroll-margin-top: calc(var(--nav-h) + 1rem);
+  padding-bottom: 3rem;
+}
+
+.speaking-practice__intro {
+  max-width: 58ch;
+  margin-bottom: 1.25rem;
+}
+
+.speaking-practice__intro .eyebrow {
+  margin-bottom: 0.35rem;
+  color: var(--accent-from);
+}
+
+.speaking-practice__intro h2 {
+  margin: 0;
+  font-size: clamp(1.6rem, 4vw, 2.25rem);
+  letter-spacing: -0.04em;
+}
+
+.speaking-practice__intro > p:last-child {
+  margin: 0.55rem 0 0;
+  color: var(--text-muted);
+}
+
+.speaking-set-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  gap: 0.85rem;
+}
+
+.speaking-set {
+  scroll-margin-top: calc(var(--nav-h) + 1rem);
+}
+
+.speaking-set__summary .eyebrow {
+  color: var(--accent-from);
+}
+
+.speaking-set__content {
+  border-top: 1px solid var(--border);
+}
+
+.speaking-set__parts {
+  display: grid;
+  gap: 1.4rem;
+  padding-top: 1.1rem;
+}
+
+.speaking-set__part h3 {
+  margin: 0 0 0.75rem;
+  font-size: 1rem;
+  letter-spacing: -0.02em;
+}
+
+.speaking-set__part ol,
+.speaking-set__part ul {
+  display: grid;
+  gap: 0.55rem;
+  margin: 0;
+  padding-left: 1.35rem;
+  color: var(--text-muted);
+}
+
+.speaking-set__question-groups {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.speaking-set__question-group {
+  padding: 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--bg-soft);
+}
+
+.speaking-set__question-group h4 {
+  margin: 0 0 0.55rem;
+  color: var(--accent-from);
+  font-size: 0.85rem;
+}
+
+.speaking-set__question-group ol {
+  gap: 0.45rem;
+}
+
+.speaking-set__cue-card {
+  padding: 1rem;
+  border-left: 3px solid var(--accent-from);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  background: var(--bg-soft);
+}
+
+.speaking-set__cue-card h4 {
+  margin: 0 0 0.8rem;
+}
+
+.speaking-set__cue-card p {
+  margin: 0.75rem 0 0;
+  color: var(--text-muted);
+}
+
+.speaking-set__cue-card ul {
+  margin-top: 0.5rem;
 }
 
 .speaking-topic {
@@ -1490,6 +1659,19 @@ button {
 }
 
 @media (max-width: 760px) {
+  .speaking-intro__layout {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .speaking-intro__actions {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .speaking-set-list {
+    grid-template-columns: 1fr;
+  }
+
   .home-card-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -1523,6 +1705,10 @@ button {
 }
 
 @media (max-width: 520px) {
+  .speaking-intro__actions {
+    grid-template-columns: 1fr;
+  }
+
   .home-card-grid {
     grid-template-columns: 1fr;
   }

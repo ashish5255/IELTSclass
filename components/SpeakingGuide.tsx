@@ -8,6 +8,7 @@ import {
   speakingSpotlightTips,
   speakingTips,
 } from "../lib/speaking-content";
+import { speakingSets } from "../lib/speaking-sets";
 
 export default function SpeakingGuide() {
   return (
@@ -17,11 +18,50 @@ export default function SpeakingGuide() {
           <span aria-hidden="true">←</span> All resources
         </Link>
         <p className="eyebrow">IELTS speaking guide</p>
-        <h1>Speak clearly. Share your ideas. Be yourself.</h1>
-        <p className="page-hero__intro">
-          Get to know the Speaking test, understand what the examiner is
-          listening for, and find practical ways to prepare for each part.
-        </p>
+        <div className="speaking-intro__layout">
+          <div className="speaking-intro__copy">
+            <h1>Speak clearly. Share your ideas. Be yourself.</h1>
+            <p className="page-hero__intro">
+              Get to know the Speaking test, understand what the examiner is
+              listening for, and find practical ways to prepare for each part.
+            </p>
+          </div>
+          <nav
+            className="speaking-intro__actions"
+            aria-label="Speaking practice resources"
+          >
+            <a
+              className="speaking-resource-link"
+              href="/phrasal-verbs.md"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <span className="speaking-resource-link__title">
+                Phrasal Verbs Masterclass
+              </span>
+              <span className="speaking-resource-link__description">
+                Meanings, usage, and IELTS examples
+              </span>
+              <span className="speaking-resource-link__action">
+                Explore the guide <span aria-hidden="true">→</span>
+              </span>
+            </a>
+            <Link
+              className="speaking-resource-link"
+              href="#practice-sets"
+            >
+              <span className="speaking-resource-link__title">
+                IELTS Speaking Sets
+              </span>
+              <span className="speaking-resource-link__description">
+                14 topic-based sets to practise
+              </span>
+              <span className="speaking-resource-link__action">
+                Choose a set <span aria-hidden="true">→</span>
+              </span>
+            </Link>
+          </nav>
+        </div>
       </section>
 
       <div className="speaking-topics container">
@@ -311,6 +351,95 @@ export default function SpeakingGuide() {
           </div>
         </details>
       </div>
+
+      <section
+        className="speaking-practice container"
+        id="practice-sets"
+        aria-labelledby="speaking-practice-title"
+      >
+        <div className="speaking-practice__intro">
+          <p className="eyebrow">Your turn to speak</p>
+          <h2 id="speaking-practice-title">IELTS speaking practice sets</h2>
+          <p>
+            Work through all three parts of each topic. Part 1 questions
+            progress from easy to challenging.
+          </p>
+        </div>
+        <div className="speaking-set-list">
+          {speakingSets.map((set) => (
+            <details className="speaking-topic speaking-set" key={set.number}>
+              <summary className="speaking-topic__summary speaking-set__summary">
+                <span>
+                  <span className="eyebrow">
+                    Set {String(set.number).padStart(2, "0")} · 15 Part 1
+                    questions
+                  </span>
+                  <span className="speaking-topic__title">{set.title}</span>
+                </span>
+                <span className="speaking-topic__icon" aria-hidden="true" />
+              </summary>
+              <div className="speaking-topic__content speaking-set__content">
+                <div className="speaking-set__parts">
+                  <section className="speaking-set__part">
+                    <h3>Part 1 · Interview questions</h3>
+                    <div className="speaking-set__question-groups">
+                      {[
+                        {
+                          label: "Easy",
+                          questions: set.part1.slice(0, 5),
+                        },
+                        {
+                          label: "Medium",
+                          questions: set.part1.slice(5, 10),
+                        },
+                        {
+                          label: "Challenge",
+                          questions: set.part1.slice(10, 15),
+                        },
+                      ].map((group, index) => (
+                        <div
+                          className="speaking-set__question-group"
+                          key={group.label}
+                        >
+                          <h4>{group.label}</h4>
+                          <ol start={index * 5 + 1}>
+                            {group.questions.map((question) => (
+                              <li key={question}>{question}</li>
+                            ))}
+                          </ol>
+                        </div>
+                      ))}
+                    </div>
+                  </section>
+
+                  <section className="speaking-set__part">
+                    <h3>Part 2 · Cue card</h3>
+                    <aside className="speaking-set__cue-card">
+                      <h4>{set.cueCard.prompt}</h4>
+                      <p>You should say:</p>
+                      <ul>
+                        {set.cueCard.points.map((point) => (
+                          <li key={point}>{point}</li>
+                        ))}
+                      </ul>
+                      <p>{set.cueCard.followUp}</p>
+                    </aside>
+                  </section>
+
+                  <section className="speaking-set__part">
+                    <h3>Part 3 · Discussion questions</h3>
+                    <ol>
+                      {set.part3.map((question) => (
+                        <li key={question}>{question}</li>
+                      ))}
+                    </ol>
+                  </section>
+                </div>
+              </div>
+            </details>
+          ))}
+        </div>
+      </section>
 
       <section className="speaking-guide__footer container">
         <p>Keep practising, stay curious, and let your own ideas lead.</p>
