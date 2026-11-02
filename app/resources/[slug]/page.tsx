@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import LearningDetail from "../../../components/LearningDetail";
+import SpeakingGuide from "../../../components/SpeakingGuide";
 import { resourcePages } from "../../../lib/learning-content";
 
 export function generateStaticParams() {
@@ -15,6 +16,10 @@ export default async function ResourceDetailPage({
   const resource = resourcePages.find((page) => page.slug === slug);
 
   if (!resource) notFound();
+
+  if (resource.slug === "speaking-guide") {
+    return <SpeakingGuide />;
+  }
 
   return (
     <LearningDetail
