@@ -14,7 +14,14 @@ export default function ResourcesPage() {
       description: page.description,
       label: page.label,
       href: `/resources/${page.slug}`,
-    })),
+    })).filter((resource) => resource.href !== "/resources/grammar-for-beginners"),
+    {
+      title: "Grammar",
+      description:
+        "Explore grammar guidance from the basics to advanced phrasal verbs and idioms.",
+      label: "Grammar",
+      href: "/grammar",
+    },
   ];
 
   return (

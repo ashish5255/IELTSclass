@@ -115,8 +115,14 @@ export const resourcePages = [
       {
         title: "Explore phrasal verbs",
         body: "Learn how phrasal verbs work, understand their meanings in context, and practise using them naturally in IELTS Speaking.",
-        href: "/phrasal-verbs.md",
+        href: "/grammar/phrasal-verbs",
         linkLabel: "Open the Phrasal Verbs Masterclass",
+      },
+      {
+        title: "Explore idioms",
+        body: "Understand figurative meanings and practise choosing idioms that fit the context.",
+        href: "/grammar/idioms",
+        linkLabel: "Open the Idioms Masterclass",
       },
     ],
   },

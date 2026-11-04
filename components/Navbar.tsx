@@ -17,6 +17,7 @@ type NavLink = {
 const LINKS: NavLink[] = [
   { href: "/", label: "Home" },
   { href: "/ielts", label: "IELTS Mock", variant: "ielts" },
+  { href: "/grammar", label: "Grammar" },
   { href: "/resources", label: "Resources" },
   { href: "/#about", label: "About" },
   { href: "/#contact", label: "Contact" },

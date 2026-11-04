@@ -43,11 +43,11 @@ const cards = [
   },
   {
     number: "06",
-    title: "Grammar concepts for beginners",
+    title: "Grammar",
     description:
-      "Strengthen your English foundations with clear, beginner-friendly grammar practice.",
-    href: "/resources/grammar-for-beginners",
-    action: "Open Grammar Guide",
+      "Build your foundations and explore advanced English expressions, from phrasal verbs to idioms.",
+    href: "/grammar",
+    action: "Explore Grammar",
   },
 ];
 
