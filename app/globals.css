@@ -85,7 +85,7 @@
 
   /* Layout + shape */
   --nav-h: 64px;
-  --container: 1120px;
+  --container: 1360px;
   --radius-sm: 10px;
   --radius-md: 12px;
   --radius-full: 999px;
@@ -154,6 +154,7 @@ body {
   margin: 0;
   min-height: 100vh;
   font-family: var(--font-body);
+  font-size: 1.125rem;
   line-height: 1.6;
   color: var(--text);
   background: var(--bg);
@@ -181,7 +182,7 @@ button {
   width: 100%;
   max-width: var(--container);
   margin-inline: auto;
-  padding-inline: 1.25rem;
+  padding-inline: clamp(1.25rem, 3vw, 2.5rem);
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -300,7 +301,7 @@ button {
   border-radius: var(--radius-full);
   background: var(--accent-gradient);
   color: #fff;
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 600;
   box-shadow: 0 8px 20px -8px color-mix(in srgb, var(--accent-from) 70%, transparent);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -440,7 +441,7 @@ button {
   max-width: 60ch;
   margin: 1.25rem 0 0;
   color: var(--text-muted);
-  font-size: clamp(1rem, 2vw, 1.15rem);
+  font-size: clamp(1.125rem, 2vw, 1.25rem);
 }
 
 .home-card-grid {
@@ -501,7 +502,7 @@ button {
   margin-top: auto;
   padding-top: 1.25rem;
   color: var(--primary-text);
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 700;
 }
 
@@ -620,7 +621,7 @@ button {
   margin-top: auto;
   padding-top: 1.25rem;
   color: var(--primary-text);
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 700;
 }
 
@@ -685,7 +686,7 @@ button {
   align-items: center;
   margin-bottom: 2.25rem;
   color: var(--primary-text);
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 700;
 }
 
@@ -890,7 +891,7 @@ button {
   width: 100%;
   margin: 1.25rem 0;
   border-collapse: collapse;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .masterclass-content th,
@@ -924,7 +925,7 @@ button {
   gap: 0.5rem;
   margin-top: 2rem;
   color: var(--primary-text);
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 700;
 }
 
@@ -1002,7 +1003,7 @@ button {
   padding: 1.1rem 0 0 1.2rem;
   border-top: 1px solid var(--border);
   color: var(--text-muted);
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .mock-card__link h2 {
@@ -1073,7 +1074,7 @@ button {
   align-items: center;
   margin-bottom: 1.75rem;
   color: var(--text-muted);
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 600;
 }
 
@@ -1133,7 +1134,7 @@ button {
   gap: 0.4rem;
   margin-top: 1rem;
   color: var(--primary-text);
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 700;
 }
 
@@ -1223,7 +1224,7 @@ button {
 
 .speaking-resource-link__description {
   color: rgb(255 255 255 / 0.88);
-  font-size: 0.82rem;
+  font-size: 0.95rem;
   line-height: 1.4;
 }
 
@@ -1233,7 +1234,7 @@ button {
   align-items: center;
   gap: 0.5rem;
   margin-top: 0.3rem;
-  font-size: 0.86rem;
+  font-size: 1rem;
   font-weight: 700;
 }
 
@@ -1524,7 +1525,7 @@ button {
 .speaking-overview__grid dd {
   margin: 0;
   color: var(--text-muted);
-  font-size: 0.92rem;
+  font-size: 1.04rem;
 }
 
 .speaking-table-wrap {
@@ -1558,19 +1559,19 @@ button {
 .speaking-table thead th {
   background: var(--bg-soft);
   color: var(--text);
-  font-size: 0.88rem;
+  font-size: 1rem;
   font-weight: 700;
 }
 
 .speaking-table tbody th {
   color: var(--text);
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 700;
 }
 
 .speaking-table tbody td {
   color: var(--text-muted);
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .speaking-table tbody tr:last-child th,
@@ -1919,7 +1920,7 @@ button {
   max-width: 48ch;
   margin: 0;
   color: var(--text-muted);
-  font-size: 0.92rem;
+  font-size: 1.04rem;
 }
 
 .site-footer__links {
@@ -1932,7 +1933,7 @@ button {
 .site-footer__links a,
 .site-footer__contact-link {
   color: var(--text-muted);
-  font-size: 0.92rem;
+  font-size: 1.04rem;
 }
 
 .site-footer__links a:hover,
