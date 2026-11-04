@@ -46,6 +46,17 @@ export default function SpeakingGuide() {
                 Explore the guide <span aria-hidden="true">→</span>
               </span>
             </a>
+            <Link className="speaking-resource-link" href="/grammar/idioms">
+              <span className="speaking-resource-link__title">
+                Idioms Masterclass
+              </span>
+              <span className="speaking-resource-link__description">
+                Learn to use idioms naturally in conversation
+              </span>
+              <span className="speaking-resource-link__action">
+                Explore the guide <span aria-hidden="true">→</span>
+              </span>
+            </Link>
             <Link
               className="speaking-resource-link"
               href="#practice-sets"

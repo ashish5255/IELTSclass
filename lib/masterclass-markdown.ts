@@ -3,6 +3,11 @@ export type MasterclassChapter = {
   id: string;
 };
 
+export type MasterclassAnswer = {
+  label: string;
+  content: string;
+};
+
 function slugifyHeading(heading: string) {
   return heading
     .toLowerCase()
@@ -70,6 +75,50 @@ function convertIndentedTables(markdown: string) {
   return converted.join("\n");
 }
 
+function extractExerciseAnswers(markdown: string) {
+  const answerKeys: Record<string, MasterclassAnswer> = {};
+  const answerBlocks = [
+    ...markdown.matchAll(
+      /<details>\s*<summary>([\s\S]*?)<\/summary>\s*([\s\S]*?)\s*<\/details>/gi,
+    ),
+  ];
+  let content = markdown;
+
+  for (let index = answerBlocks.length - 1; index >= 0; index -= 1) {
+    const match = answerBlocks[index];
+    const [block, summary, answer] = match;
+    const blockStart = match.index;
+    if (blockStart === undefined) {
+      throw new Error("Unable to locate an exercise answer block.");
+    }
+
+    const precedingHeadings = [
+      ...markdown.slice(0, blockStart).matchAll(/^## Exercise \d+:.*$/gm),
+    ];
+    const heading = precedingHeadings.at(-1);
+    if (!heading || heading.index === undefined) {
+      throw new Error("Exercise answer block is missing its exercise heading.");
+    }
+
+    const label = summary.replace(/\*\*/g, "").trim();
+    if (!/^Show\b.*answers?\b/i.test(label)) {
+      throw new Error(`Unsupported exercise answer label: ${label}`);
+    }
+
+    const key = String(index);
+    const marker = ` [[MASTERCLASS_ANSWER_${key}]]`;
+    const headingEnd = heading.index + heading[0].length;
+    answerKeys[key] = { label, content: answer.trim() };
+
+    content =
+      content.slice(0, blockStart) + content.slice(blockStart + block.length);
+    content =
+      content.slice(0, headingEnd) + marker + content.slice(headingEnd);
+  }
+
+  return { content, answerKeys };
+}
+
 export function prepareMasterclassMarkdown(markdown: string) {
   let content = markdown
     .replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n*/m, "")
@@ -96,15 +145,17 @@ export function prepareMasterclassMarkdown(markdown: string) {
   content = content
     .replace(/^```{=html}\r?\n([\s\S]*?)^```\s*$/gm, "$1")
     .replace(/`<strong>`\{=html\}/g, "**")
-    .replace(/`<\/strong>`\{=html\}/g, "**")
-    .replace(/<\/?details>\s*/g, "\n\n")
-    .replace(/<summary>\s*/g, "\n\n**Show answers**\n\n")
-    .replace(/\s*<\/summary>/g, "\n\n")
+    .replace(/`<\/strong>`\{=html\}/g, "**");
+
+  const { content: contentWithAnswers, answerKeys } =
+    extractExerciseAnswers(content);
+  const normalizedContent = contentWithAnswers
     .replace(/^(#{1,5})\s+/gm, "#$1 ")
     .replace(/^[ \t]*-{3,}[ \t]*$/gm, "");
 
   return {
     chapters,
-    content: convertIndentedTables(content).trim(),
+    content: convertIndentedTables(normalizedContent).trim(),
+    answerKeys,
   };
 }

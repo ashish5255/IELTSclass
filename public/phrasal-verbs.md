@@ -49,13 +49,13 @@ A **phrasal verb** is a combination of a verb and one or more particles
 (an adverb, a preposition, or both). Together, they create a meaning
 that may be different from the original verb.
 
-  Verb   Particle   Phrasal verb   Meaning
-  ------ ---------- -------------- ------------------------------
-  give   up         give up        quit or stop doing something
-  look   after      look after     take care of
-  put    off        put off        postpone
-  find   out        find out       discover information
-  run    into       run into       meet unexpectedly
+| Verb | Particle | Phrasal verb | Meaning |
+| --- | --- | --- | --- |
+| give | up | give up | quit or stop doing something |
+| look | after | look after | take care of |
+| put | off | put off | postpone |
+| find | out | find out | discover information |
+| run | into | run into | meet unexpectedly |
 
 ### Compare the meanings
 
@@ -119,35 +119,16 @@ Particles can sometimes give clues about meaning. However, these are
 patterns, not fixed rules. The meaning of a phrasal verb must ultimately
 be learned in context.
 
-  -----------------------------------------------------------------------
-  Particle                Common idea             Examples
-  ----------------------- ----------------------- -----------------------
-  up                      completion, increase,   use up, speed up, set
-                          or preparation          up
-
-  down                    reduction, control, or  slow down, cut down,
-                          stopping                break down
-
-  out                     discovery,              find out, run out, hand
-                          disappearance, or       out
-                          distribution            
-
-  off                     separation,             take off, call off, set
-                          cancellation, or        off
-                          departure               
-
-  on                      continuation or         carry on, put on, get
-                          connection              on
-
-  away                    distance or continuous  go away, throw away,
-                          action                  work away
-
-  back                    return or response      come back, call back,
-                                                  take back
-
-  over                    review or repetition    go over, think over,
-                                                  take over
-  -----------------------------------------------------------------------
+| Particle | Common idea | Examples |
+| --- | --- | --- |
+| up | completion, increase, or preparation | use up, speed up, set up |
+| down | reduction, control, or stopping | slow down, cut down, break down |
+| out | discovery, disappearance, or distribution | find out, run out, hand out |
+| off | separation, cancellation, or departure | take off, call off, set off |
+| on | continuation or connection | carry on, put on, get on |
+| away | distance or continuous action | go away, throw away, work away |
+| back | return or response | come back, call back, take back |
+| over | review or repetition | go over, think over, take over |
 
 ### Examples in context
 
@@ -197,33 +178,16 @@ These contain a verb followed by two particles.
 
 Examples:
 
-  -----------------------------------------------------------------------
-  Phrasal verb            Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  look forward to         feel excited about      I look forward to
-                          something in the future meeting you.
-
-  get along with          have a good             I get along with my
-                          relationship            colleagues.
-
-  put up with             tolerate                I cannot put up with
-                                                  constant noise.
-
-  come up with            think of an idea        She came up with a
-                                                  solution.
-
-  run out of              have no more of         We have run out of
-                          something               time.
-
-  look down on            consider someone        Nobody should look down
-                          inferior                on others.
-
-  get away with           escape punishment       He cannot get away with
-                                                  cheating.
-
-  catch up with           reach the same level or I need to catch up with
-                          exchange news           my friends.
-  -----------------------------------------------------------------------
+| Phrasal verb | Meaning | Example |
+| --- | --- | --- |
+| look forward to | feel excited about something in the future | I look forward to meeting you. |
+| get along with | have a good relationship | I get along with my colleagues. |
+| put up with | tolerate | I cannot put up with constant noise. |
+| come up with | think of an idea | She came up with a solution. |
+| run out of | have no more of something | We have run out of time. |
+| look down on | consider someone inferior | Nobody should look down on others. |
+| get away with | escape punishment | He cannot get away with cheating. |
+| catch up with | reach the same level or exchange news | I need to catch up with my friends. |
 
 ------------------------------------------------------------------------
 
@@ -249,13 +213,13 @@ the particle.
 
 More examples:
 
-  With a noun               With a pronoun
-  ------------------------- ----------------
-  Pick up the book.         Pick it up.
-  Put on your jacket.       Put it on.
-  Write down the answer.    Write it down.
-  Throw away the rubbish.   Throw it away.
-  Hand in the assignment.   Hand it in.
+| With a noun | With a pronoun |
+| --- | --- |
+| Pick up the book. | Pick it up. |
+| Put on your jacket. | Put it on. |
+| Write down the answer. | Write it down. |
+| Throw away the rubbish. | Throw it away. |
+| Hand in the assignment. | Hand it in. |
 
 ## 4.2 Inseparable phrasal verbs
 
@@ -268,14 +232,14 @@ Not: I look him after.
 
 Examples:
 
-  Phrasal verb   Correct example
-  -------------- ------------------------------------------
-  look after     She looks after her grandparents.
-  run into       I ran into an old friend.
-  deal with      We need to deal with this issue.
-  look into      The committee will look into the matter.
-  get over       It took me weeks to get over the flu.
-  come across    I came across an interesting article.
+| Phrasal verb | Correct example |
+| --- | --- |
+| look after | She looks after her grandparents. |
+| run into | I ran into an old friend. |
+| deal with | We need to deal with this issue. |
+| look into | The committee will look into the matter. |
+| get over | It took me weeks to get over the flu. |
+| come across | I came across an interesting article. |
 
 ## 4.3 Three-word verbs
 
@@ -291,297 +255,125 @@ Three-word phrasal verbs are generally inseparable.
 
 ## 5.1 Daily routines and lifestyle
 
-  -----------------------------------------------------------------------
-  Phrasal verb            Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  wake up                 stop sleeping           I wake up at six every
-                                                  morning.
-
-  get up                  leave the bed           I get up as soon as my
-                                                  alarm rings.
-
-  freshen up              wash and make oneself   I freshen up before
-                          feel refreshed          breakfast.
-
-  put on                  dress oneself in        I put on comfortable
-                          something               clothes.
-
-  take off                remove clothing         I take off my shoes at
-                                                  home.
-
-  head out                leave a place           I head out for work at
-                                                  eight.
-
-  come back               return                  I come back home in the
-                                                  evening.
-
-  wind down               relax after activity    I listen to music to
-                                                  wind down.
-
-  turn in                 go to bed               I usually turn in
-                                                  before eleven.
-
-  sleep in                sleep later than usual  I like to sleep in on
-                                                  Saturdays.
-  -----------------------------------------------------------------------
+| Phrasal verb | Meaning | Example |
+| --- | --- | --- |
+| wake up | stop sleeping | I wake up at six every morning. |
+| get up | leave the bed | I get up as soon as my alarm rings. |
+| freshen up | wash and make oneself feel refreshed | I freshen up before breakfast. |
+| put on | dress oneself in something | I put on comfortable clothes. |
+| take off | remove clothing | I take off my shoes at home. |
+| head out | leave a place | I head out for work at eight. |
+| come back | return | I come back home in the evening. |
+| wind down | relax after activity | I listen to music to wind down. |
+| turn in | go to bed | I usually turn in before eleven. |
+| sleep in | sleep later than usual | I like to sleep in on Saturdays. |
 
 ## 5.2 Education and learning
 
-  -----------------------------------------------------------------------
-  Phrasal verb            Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  catch up on             do something that was   I need to catch up on
-                          missed                  my assignments.
-
-  fall behind             fail to stay at the     Some students fall
-                          same level              behind in mathematics.
-
-  keep up with            remain at the same      It is difficult to keep
-                          level or pace           up with new technology.
-
-  go over                 review                  I go over my notes
-                                                  before an examination.
-
-  look up                 search for information  I looked up the meaning
-                                                  of the word.
-
-  write down              record in writing       Write down the
-                                                  important points.
-
-  hand in                 submit                  Students must hand in
-                                                  their assignments on
-                                                  time.
-
-  take up                 begin a hobby or        I took up photography
-                          activity                last year.
-
-  brush up on             improve existing        I need to brush up on
-                          knowledge or skills     my grammar.
-
-  figure out              understand or solve     I finally figured out
-                                                  the question.
-
-  work out                solve or find an answer We worked out a better
-                                                  solution.
-
-  drop out                leave a course or       He dropped out of
-                          programme               college.
-  -----------------------------------------------------------------------
+| Phrasal verb | Meaning | Example |
+| --- | --- | --- |
+| catch up on | do something that was missed | I need to catch up on my assignments. |
+| fall behind | fail to stay at the same level | Some students fall behind in mathematics. |
+| keep up with | remain at the same level or pace | It is difficult to keep up with new technology. |
+| go over | review | I go over my notes before an examination. |
+| look up | search for information | I looked up the meaning of the word. |
+| write down | record in writing | Write down the important points. |
+| hand in | submit | Students must hand in their assignments on time. |
+| take up | begin a hobby or activity | I took up photography last year. |
+| brush up on | improve existing knowledge or skills | I need to brush up on my grammar. |
+| figure out | understand or solve | I finally figured out the question. |
+| work out | solve or find an answer | We worked out a better solution. |
+| drop out | leave a course or programme | He dropped out of college. |
 
 ## 5.3 Work and career
 
-  -----------------------------------------------------------------------
-  Phrasal verb            Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  take on                 accept responsibility   She took on a new role.
-                          or work                 
-
-  carry out               perform or conduct      The researchers carried
-                                                  out a survey.
-
-  set up                  establish               They set up a small
-                                                  business.
-
-  take over               gain control or         A new manager took over
-                          responsibility          the department.
-
-  step down               resign from a position  The director stepped
-                                                  down last month.
-
-  move up                 advance to a higher     He moved up in the
-                          position                company.
-
-  deal with               handle a situation      I deal with customer
-                                                  enquiries.
-
-  follow up on            take further action     We need to follow up on
-                                                  the application.
-
-  get ahead               become successful or    She works hard to get
-                          progress                ahead in her career.
-
-  burn out                become exhausted from   Employees can burn out
-                          prolonged stress        if they work
-                                                  excessively.
-  -----------------------------------------------------------------------
+| Phrasal verb | Meaning | Example |
+| --- | --- | --- |
+| take on | accept responsibility or work | She took on a new role. |
+| carry out | perform or conduct | The researchers carried out a survey. |
+| set up | establish | They set up a small business. |
+| take over | gain control or responsibility | A new manager took over the department. |
+| step down | resign from a position | The director stepped down last month. |
+| move up | advance to a higher position | He moved up in the company. |
+| deal with | handle a situation | I deal with customer enquiries. |
+| follow up on | take further action | We need to follow up on the application. |
+| get ahead | become successful or progress | She works hard to get ahead in her career. |
+| burn out | become exhausted from prolonged stress | Employees can burn out if they work excessively. |
 
 ## 5.4 Relationships and social life
 
-  -----------------------------------------------------------------------
-  Phrasal verb            Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  get along with          have a good             I get along with most
-                          relationship            of my colleagues.
-
-  hang out                spend time socially     We hang out at
-                                                  weekends.
-
-  catch up with           talk after a period     I caught up with an old
-                          apart                   friend.
-
-  fall out with           have an argument and    I fell out with a
-                          stop being friendly     friend years ago.
-
-  make up                 become friends again    We argued but
-                          after an argument       eventually made up.
-
-  look up to              admire                  I look up to my older
-                                                  sister.
-
-  stand by                support someone         My family stood by me
-                                                  during a difficult
-                                                  time.
-
-  let down                disappoint              I do not want to let my
-                                                  parents down.
-
-  reach out to            contact someone for     I reached out to my
-                          help or communication   teacher.
-
-  grow apart              gradually become less   We grew apart after
-                          close                   leaving school.
-  -----------------------------------------------------------------------
+| Phrasal verb | Meaning | Example |
+| --- | --- | --- |
+| get along with | have a good relationship | I get along with most of my colleagues. |
+| hang out | spend time socially | We hang out at weekends. |
+| catch up with | talk after a period apart | I caught up with an old friend. |
+| fall out with | have an argument and stop being friendly | I fell out with a friend years ago. |
+| make up | become friends again after an argument | We argued but eventually made up. |
+| look up to | admire | I look up to my older sister. |
+| stand by | support someone | My family stood by me during a difficult time. |
+| let down | disappoint | I do not want to let my parents down. |
+| reach out to | contact someone for help or communication | I reached out to my teacher. |
+| grow apart | gradually become less close | We grew apart after leaving school. |
 
 ## 5.5 Technology and communication
 
-  -----------------------------------------------------------------------
-  Phrasal verb            Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  log in                  enter an account or     I log in to my email
-                          system                  every morning.
-
-  log out                 leave an account or     Remember to log out on
-                          system                  public computers.
-
-  sign up                 register                I signed up for an
-                                                  online course.
-
-  scroll through          move through content on I scroll through social
-                          a screen                media in my free time.
-
-  switch on               activate a device       Switch on the computer.
-
-  switch off              deactivate a device     I switch off
-                                                  notifications while
-                                                  studying.
-
-  back up                 make a copy of data     I back up my files
-                                                  regularly.
-
-  plug in                 connect to an           I plugged in my laptop.
-                          electrical supply       
-
-  shut down               turn off a computer or  Shut down the computer
-                          system                  properly.
-
-  break down              stop functioning        My phone broke down
-                                                  unexpectedly.
-  -----------------------------------------------------------------------
+| Phrasal verb | Meaning | Example |
+| --- | --- | --- |
+| log in | enter an account or system | I log in to my email every morning. |
+| log out | leave an account or system | Remember to log out on public computers. |
+| sign up | register | I signed up for an online course. |
+| scroll through | move through content on a screen | I scroll through social media in my free time. |
+| switch on | activate a device | Switch on the computer. |
+| switch off | deactivate a device | I switch off notifications while studying. |
+| back up | make a copy of data | I back up my files regularly. |
+| plug in | connect to an electrical supply | I plugged in my laptop. |
+| shut down | turn off a computer or system | Shut down the computer properly. |
+| break down | stop functioning | My phone broke down unexpectedly. |
 
 ## 5.6 Travel and transport
 
-  -----------------------------------------------------------------------
-  Phrasal verb            Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  set off                 begin a journey         We set off early in the
-                                                  morning.
-
-  check in                register at an airport  We checked in two hours
-                          or hotel                before the flight.
-
-  check out               leave a hotel after     We checked out at noon.
-                          paying                  
-
-  get on                  board a bus, train, or  I got on the bus near
-                          plane                   my house.
-
-  get off                 leave a bus, train, or  We got off at the next
-                          plane                   stop.
-
-  pick up                 collect someone or      My friend picked me up
-                          something               from the airport.
-
-  drop off                take someone somewhere  My father dropped me
-                          and leave them there    off at college.
-
-  stop over               stay briefly during a   We stopped over in
-                          journey                 Doha.
-
-  look around             explore a place         We looked around the
-                                                  old city.
-
-  get away                go somewhere for a      I want to get away for
-                          break                   a few days.
-  -----------------------------------------------------------------------
+| Phrasal verb | Meaning | Example |
+| --- | --- | --- |
+| set off | begin a journey | We set off early in the morning. |
+| check in | register at an airport or hotel | We checked in two hours before the flight. |
+| check out | leave a hotel after paying | We checked out at noon. |
+| get on | board a bus, train, or plane | I got on the bus near my house. |
+| get off | leave a bus, train, or plane | We got off at the next stop. |
+| pick up | collect someone or something | My friend picked me up from the airport. |
+| drop off | take someone somewhere and leave them there | My father dropped me off at college. |
+| stop over | stay briefly during a journey | We stopped over in Doha. |
+| look around | explore a place | We looked around the old city. |
+| get away | go somewhere for a break | I want to get away for a few days. |
 
 ## 5.7 Health and fitness
 
-  -----------------------------------------------------------------------
-  Phrasal verb            Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  work out                exercise                I work out three times
-                                                  a week.
-
-  warm up                 prepare the body for    Always warm up before
-                          exercise                running.
-
-  cool down               gradually reduce        We cooled down after
-                          exercise intensity      the match.
-
-  cut down on             reduce consumption      I am trying to cut down
-                                                  on sugar.
-
-  give up                 stop a habit            He gave up smoking.
-
-  take up                 start an activity       She took up yoga.
-
-  get over                recover from illness or It took me a week to
-                          difficulty              get over the flu.
-
-  come down with          become ill with         I came down with a
-                                                  cold.
-
-  pass out                lose consciousness      He nearly passed out
-                                                  from the heat.
-
-  build up                develop gradually       Exercise can help build
-                                                  up stamina.
-  -----------------------------------------------------------------------
+| Phrasal verb | Meaning | Example |
+| --- | --- | --- |
+| work out | exercise | I work out three times a week. |
+| warm up | prepare the body for exercise | Always warm up before running. |
+| cool down | gradually reduce exercise intensity | We cooled down after the match. |
+| cut down on | reduce consumption | I am trying to cut down on sugar. |
+| give up | stop a habit | He gave up smoking. |
+| take up | start an activity | She took up yoga. |
+| get over | recover from illness or difficulty | It took me a week to get over the flu. |
+| come down with | become ill with | I came down with a cold. |
+| pass out | lose consciousness | He nearly passed out from the heat. |
+| build up | develop gradually | Exercise can help build up stamina. |
 
 ## 5.8 Money and shopping
 
-  -----------------------------------------------------------------------
-  Phrasal verb            Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  save up                 accumulate money        I am saving up for a
-                                                  laptop.
-
-  splash out on           spend a lot on          I splashed out on a new
-                          something               phone.
-
-  pay back                return borrowed money   I will pay you back
-                                                  next week.
-
-  pay off                 finish paying a debt;   Hard work eventually
-                          produce a good result   pays off.
-
-  shop around             compare prices before   I shop around before
-                          buying                  making a purchase.
-
-  cut back on             reduce spending or      We need to cut back on
-                          consumption             unnecessary expenses.
-
-  run out of              have no more left       I ran out of cash.
-
-  sell out                have all items sold     The concert tickets
-                                                  sold out.
-
-  mark down               reduce a price          The shop marked down
-                                                  the prices.
-
-  pick up                 buy something, often    I picked up a few
-                          casually                groceries.
-  -----------------------------------------------------------------------
+| Phrasal verb | Meaning | Example |
+| --- | --- | --- |
+| save up | accumulate money | I am saving up for a laptop. |
+| splash out on | spend a lot on something | I splashed out on a new phone. |
+| pay back | return borrowed money | I will pay you back next week. |
+| pay off | finish paying a debt; produce a good result | Hard work eventually pays off. |
+| shop around | compare prices before buying | I shop around before making a purchase. |
+| cut back on | reduce spending or consumption | We need to cut back on unnecessary expenses. |
+| run out of | have no more left | I ran out of cash. |
+| sell out | have all items sold | The concert tickets sold out. |
+| mark down | reduce a price | The shop marked down the prices. |
+| pick up | buy something, often casually | I picked up a few groceries. |
 
 ------------------------------------------------------------------------
 
@@ -699,204 +491,72 @@ over money. - The old building is falling apart.
 
 ## 7.1 Academic, professional, and formal-context expressions
 
-  -----------------------------------------------------------------------
-  Phrasal verb            Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  mull over               think carefully about   I need to mull over the
-                                                  proposal.
-
-  brush aside             dismiss or ignore       We should not brush
-                                                  aside public concerns.
-
-  iron out                resolve minor problems  The team met to iron
-                                                  out the details.
-
-  zero in on              focus closely on        The study zeroes in on
-                                                  the main issue.
-
-  delve into              investigate deeply      The report delves into
-                                                  the causes of poverty.
-
-  fall back on            use as a backup         We can fall back on the
-                                                  original plan.
-
-  narrow down             reduce the number of    We narrowed down the
-                          options                 list to three choices.
-
-  rule out                eliminate as a          The evidence ruled out
-                          possibility             human error.
-
-  weigh up                consider advantages and We need to weigh up the
-                          disadvantages           risks.
-
-  phase out               gradually discontinue   The government plans to
-                                                  phase out old vehicles.
-
-  single out              choose one person or    The teacher singled out
-                          thing for special       her excellent work.
-                          attention               
-
-  crack down on           take strict action      Authorities should
-                          against                 crack down on
-                                                  corruption.
-
-  brush up on             improve existing        I need to brush up on
-                          knowledge               my speaking skills.
-
-  live up to              meet expectations       The service did not
-                                                  live up to
-                                                  expectations.
-
-  stem from               originate from          Many problems stem from
-                                                  poor planning.
-
-  branch out              expand into new areas   The company plans to
-                                                  branch out into new
-                                                  markets.
-
-  settle for              accept less than        We should not settle
-                          desired                 for poor-quality
-                                                  education.
-
-  come to terms with      accept a difficult      People must come to
-                          reality                 terms with change.
-
-  face up to              accept and deal with    Governments must face
-                                                  up to environmental
-                                                  challenges.
-
-  follow through on       complete a commitment   Leaders must follow
-                                                  through on their
-                                                  promises.
-
-  account for             explain or constitute a Transport accounts for
-                          proportion              a large share of
-                                                  emissions.
-
-  build on                develop further         Schools should build on
-                                                  students' existing
-                                                  strengths.
-
-  draw on                 use knowledge or        We can draw on past
-                          experience              experience.
-
-  lay out                 present or arrange      The report lays out
-                          clearly                 several
-                                                  recommendations.
-
-  map out                 plan in detail          Students should map out
-                                                  their career goals.
-
-  reach out to            contact or offer        Organisations should
-                          support                 reach out to vulnerable
-                                                  groups.
-
-  roll out                introduce officially    The government rolled
-                                                  out a new programme.
-
-  sign off on             formally approve        The board signed off on
-                                                  the proposal.
-
-  scale up                increase in size or     The company plans to
-                          activity                scale up production.
-
-  scale back              reduce in size or       The organisation scaled
-                          activity                back its operations.
-
-  carry forward           continue into the       We should carry forward
-                          future                  the lessons learned.
-
-  bring forward           move to an earlier time The meeting was brought
-                                                  forward.
-
-  look back on            remember or reflect on  I look back on my
-                                                  school years fondly.
-
-  move away from          stop using or relying   Society is moving away
-                          on                      from fossil fuels.
-
-  stand up for            defend or support       People should stand up
-                                                  for their rights.
-
-  work towards            make efforts to achieve Governments must work
-                                                  towards equality.
-
-  draw up                 prepare a formal        The committee drew up a
-                          document or plan        new policy.
-
-  take forward            continue developing an  The team will take the
-                          idea or project         proposal forward.
-
-  see through             continue until          We must see the project
-                          completion; recognise   through.
-                          deception               
-  -----------------------------------------------------------------------
+| Phrasal verb | Meaning | Sentence |
+| --- | --- | --- |
+| mull over | think carefully about | I need to mull over the proposal. |
+| brush aside | dismiss or ignore | We should not brush aside public concerns. |
+| iron out | resolve minor problems | The team met to iron out the details. |
+| zero in on | focus closely on | The study zeroes in on the main issue. |
+| delve into | investigate deeply | The report delves into the causes of poverty. |
+| fall back on | use as a backup | We can fall back on the original plan. |
+| narrow down | reduce the number of options | We narrowed down the list to three choices. |
+| rule out | eliminate as a possibility | The evidence ruled out human error. |
+| weigh up | consider advantages and disadvantages | We need to weigh up the risks. |
+| phase out | gradually discontinue | The government plans to phase out old vehicles. |
+| single out | choose one person or thing for special attention | The teacher singled out her excellent work. |
+| crack down on | take strict action against | Authorities should crack down on corruption. |
+| brush up on | improve existing knowledge | I need to brush up on my speaking skills. |
+| live up to | meet expectations | The service did not live up to expectations. |
+| stem from | originate from | Many problems stem from poor planning. |
+| branch out | expand into new areas | The company plans to branch out into new markets. |
+| settle for | accept less than desired | We should not settle for poor-quality education. |
+| come to terms with | accept a difficult reality | People must come to terms with change. |
+| face up to | accept and deal with | Governments must face up to environmental challenges. |
+| follow through on | complete a commitment | Leaders must follow through on their promises. |
+| account for | explain or constitute a proportion | Transport accounts for a large share of emissions. |
+| build on | develop further | Schools should build on students' existing strengths. |
+| draw on | use knowledge or experience | We can draw on past experience. |
+| lay out | present or arrange clearly | The report lays out several recommendations. |
+| map out | plan in detail | Students should map out their career goals. |
+| reach out to | contact or offer support | Organisations should reach out to vulnerable groups. |
+| roll out | introduce officially | The government rolled out a new programme. |
+| sign off on | formally approve | The board signed off on the proposal. |
+| scale up | increase in size or activity | The company plans to scale up production. |
+| scale back | reduce in size or activity | The organisation scaled back its operations. |
+| carry forward | continue into the future | We should carry forward the lessons learned. |
+| bring forward | move to an earlier time | The meeting was brought forward. |
+| look back on | remember or reflect on | I look back on my school years fondly. |
+| move away from | stop using or relying on | Society is moving away from fossil fuels. |
+| stand up for | defend or support | People should stand up for their rights. |
+| work towards | make efforts to achieve | Governments must work towards equality. |
+| draw up | prepare a formal document or plan | The committee drew up a new policy. |
+| take forward | continue developing an idea or project | The team will take the proposal forward. |
+| see through | continue until completion; recognise deception | We must see the project through. |
 
 ## 7.2 Natural conversational phrasal verbs
 
-  -----------------------------------------------------------------------
-  Phrasal verb            Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  hang out                spend time socially     I hang out with my
-                                                  friends at weekends.
-
-  chill out               relax                   I chill out by watching
-                                                  films.
-
-  catch up                exchange recent news;   We caught up over
-                          reach the same level    coffee.
-
-  head over               go to a place           I headed over to my
-                                                  friend's house.
-
-  pop in                  visit briefly           I popped in to say
-                                                  hello.
-
-  mess up                 make a mistake          I messed up the first
-                                                  question.
-
-  screw up                make a serious mistake  I screwed up the
-                          (informal)              presentation.
-
-  back off                stop pressuring or      He needs to back off.
-                          threatening             
-
-  freak out               become very anxious or  I freaked out before
-                          upset                   the interview.
-
-  zone out                stop paying attention   I zoned out during the
-                                                  lecture.
-
-  pass out                lose consciousness      He passed out from
-                                                  exhaustion.
-
-  turn in                 go to bed               I turned in early last
-                                                  night.
-
-  wrap up                 finish something        Let's wrap up the
-                                                  discussion.
-
-  kick off                begin                   The event kicks off at
-                                                  ten.
-
-  fill in                 provide missing         Please fill in the
-                          information; substitute form.
-                          for someone             
-
-  let down                disappoint              I do not want to let my
-                                                  team down.
-
-  run into                meet unexpectedly;      I ran into an old
-                          encounter a problem     classmate.
-
-  show off                display something to    He likes to show off
-                          impress others          his new car.
-
-  hold up                 delay; remain strong    Traffic held us up.
-
-  wind up                 end up in a situation;  We wound up staying
-                          finish an activity      late.
-  -----------------------------------------------------------------------
+| Phrasal verb | Meaning | Sentence |
+| --- | --- | --- |
+| hang out | spend time socially | I hang out with my friends at weekends. |
+| chill out | relax | I chill out by watching films. |
+| catch up | exchange recent news; reach the same level | We caught up over coffee. |
+| head over | go to a place | I headed over to my friend's house. |
+| pop in | visit briefly | I popped in to say hello. |
+| mess up | make a mistake | I messed up the first question. |
+| screw up | make a serious mistake (informal) | I screwed up the presentation. |
+| back off | stop pressuring or threatening | He needs to back off. |
+| freak out | become very anxious or upset | I freaked out before the interview. |
+| zone out | stop paying attention | I zoned out during the lecture. |
+| pass out | lose consciousness | He passed out from exhaustion. |
+| turn in | go to bed | I turned in early last night. |
+| wrap up | finish something | Let's wrap up the discussion. |
+| kick off | begin | The event kicks off at ten. |
+| fill in | provide missing information; substitute for someone | Please fill in the form. |
+| let down | disappoint | I do not want to let my team down. |
+| run into | meet unexpectedly; encounter a problem | I ran into an old classmate. |
+| show off | display something to impress others | He likes to show off his new car. |
+| hold up | delay; remain strong | Traffic held us up. |
+| wind up | end up in a situation; finish an activity | We wound up staying late. |
 
 ------------------------------------------------------------------------
 
@@ -906,53 +566,31 @@ over money. - The old building is falling apart.
 
 Phrasal verbs follow the normal tense rules of the main verb.
 
-  Tense                Example
-  -------------------- ------------------------------------------
-  Present simple       I give up easily.
-  Present continuous   I am looking into the issue.
-  Past simple          She called off the meeting.
-  Past continuous      They were setting up the equipment.
-  Present perfect      I have taken up swimming.
-  Past perfect         He had already handed in the assignment.
-  Future simple        We will work out a solution.
-  Modal                You should cut down on sugar.
+| Tense | Example |
+| --- | --- |
+| Present simple | I give up easily. |
+| Present continuous | I am looking into the issue. |
+| Past simple | She called off the meeting. |
+| Past continuous | They were setting up the equipment. |
+| Present perfect | I have taken up swimming. |
+| Past perfect | He had already handed in the assignment. |
+| Future simple | We will work out a solution. |
+| Modal | You should cut down on sugar. |
 
 ## 8.2 Irregular verb forms
 
-  -----------------------------------------------------------------------
-  Base form         Past simple       Past participle   Example
-  ----------------- ----------------- ----------------- -----------------
-  give up           gave up           given up          She has given up
-                                                        smoking.
-
-  take off          took off          taken off         The plane has
-                                                        taken off.
-
-  break down        broke down        broken down       The machine has
-                                                        broken down.
-
-  find out          found out         found out         I found out the
-                                                        truth.
-
-  come across       came across       come across       I have come
-                                                        across this
-                                                        phrase before.
-
-  grow up           grew up           grown up          He grew up in
-                                                        Nepal.
-
-  run into          ran into          run into          I ran into an old
-                                                        friend.
-
-  write down        wrote down        written down      I have written
-                                                        down the answer.
-
-  throw away        threw away        thrown away       They threw away
-                                                        the old files.
-
-  put up            put up            put up            They have put up
-                                                        a new sign.
-  -----------------------------------------------------------------------
+| Base form | Past simple | Past participle | Example |
+| --- | --- | --- | --- |
+| give up | gave up | given up | She has given up smoking. |
+| take off | took off | taken off | The plane has taken off. |
+| break down | broke down | broken down | The machine has broken down. |
+| find out | found out | found out | I found out the truth. |
+| come across | came across | come across | I have come across this phrase before. |
+| grow up | grew up | grown up | He grew up in Nepal. |
+| run into | ran into | run into | I ran into an old friend. |
+| write down | wrote down | written down | I have written down the answer. |
+| throw away | threw away | thrown away | They threw away the old files. |
+| put up | put up | put up | They have put up a new sign. |
 
 ## 8.3 Passive voice
 
@@ -1034,32 +672,32 @@ Phrasal verbs are not automatically informal. Some are suitable in
 academic and professional contexts, while others are conversational.
 Choose vocabulary according to the situation.
 
-  Conversational expression   More formal alternative
-  --------------------------- -------------------------
-  find out                    discover
-  look into                   investigate
-  carry out                   conduct
-  put off                     postpone
-  set up                      establish
-  come up with                propose / devise
-  point out                   highlight
-  go up                       increase
-  go down                     decrease
-  give up                     abandon
-  bring about                 cause
-  deal with                   address / handle
-  think over                  consider
-  get rid of                  eliminate
-  talk about                  discuss
-  look at                     examine
-  keep up                     maintain
-  put forward                 propose
-  bring in                    introduce
-  find a way around           circumvent
-  sum up                      summarise
-  go through                  examine / experience
-  cut down on                 reduce
-  run into                    encounter
+| Conversational expression | More formal alternative |
+| --- | --- |
+| find out | discover |
+| look into | investigate |
+| carry out | conduct |
+| put off | postpone |
+| set up | establish |
+| come up with | propose / devise |
+| point out | highlight |
+| go up | increase |
+| go down | decrease |
+| give up | abandon |
+| bring about | cause |
+| deal with | address / handle |
+| think over | consider |
+| get rid of | eliminate |
+| talk about | discuss |
+| look at | examine |
+| keep up | maintain |
+| put forward | propose |
+| bring in | introduce |
+| find a way around | circumvent |
+| sum up | summarise |
+| go through | examine / experience |
+| cut down on | reduce |
+| run into | encounter |
 
 ## IELTS Speaking vs IELTS Writing
 

@@ -44,28 +44,16 @@ title: The Complete Masterclass on English Idioms
 An **idiom** is a fixed expression or phrase whose overall meaning is
 different from the literal meaning of its individual words.
 
-  -----------------------------------------------------------------------
-  Idiom                   Literal meaning         Actual meaning
-  ----------------------- ----------------------- -----------------------
-  A piece of cake         A portion of cake       Something very easy
-
-  Break the ice           Break frozen water      Make people feel
-                                                  comfortable
-
-  Under the weather       Beneath the weather     Feeling unwell
-
-  Spill the beans         Drop beans              Reveal a secret
-
-  Hit the nail on the     Strike a nail           Identify something
-  head                    accurately              exactly
-
-  Once in a blue moon     During a rare blue moon Very rarely
-
-  Cost an arm and a leg   Lose limbs              Be extremely expensive
-
-  Let the cat out of the  Release a cat           Reveal a secret
-  bag                                             accidentally
-  -----------------------------------------------------------------------
+| Idiom | Literal meaning | Actual meaning |
+| --- | --- | --- |
+| A piece of cake | A portion of cake | Something very easy |
+| Break the ice | Break frozen water | Make people feel comfortable |
+| Under the weather | Beneath the weather | Feeling unwell |
+| Spill the beans | Drop beans | Reveal a secret |
+| Hit the nail on the head | Strike a nail accurately | Identify something exactly |
+| Once in a blue moon | During a rare blue moon | Very rarely |
+| Cost an arm and a leg | Lose limbs | Be extremely expensive |
+| Let the cat out of the bag | Release a cat | Reveal a secret accidentally |
 
 ## 1.2 Literal vs figurative meaning
 
@@ -116,19 +104,11 @@ to break the ice."
 
 ## 2.2 Types of idiom meanings
 
-  -----------------------------------------------------------------------
-  Type                    Explanation             Example
-  ----------------------- ----------------------- -----------------------
-  Transparent             Meaning is relatively   See eye to eye
-                          easy to guess           
-
-  Semi-transparent        Meaning requires        A blessing in disguise
-                          interpretation          
-
-  Opaque                  Meaning cannot easily   Kick the bucket
-                          be guessed from the     
-                          words                   
-  -----------------------------------------------------------------------
+| Type | Explanation | Example |
+| --- | --- | --- |
+| Transparent | Meaning is relatively easy to guess | See eye to eye |
+| Semi-transparent | Meaning requires interpretation | A blessing in disguise |
+| Opaque | Meaning cannot easily be guessed from the words | Kick the bucket |
 
 **Transparent** - See eye to eye --- agree with someone. - Face the
 music --- accept the consequences. - Keep an eye on --- watch
@@ -158,103 +138,54 @@ bravely. - Red tape --- excessive bureaucracy.
 
 ## 3.1 Noun-based idioms
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  A piece of cake         Something very easy     The test was a piece of
-                                                  cake.
-
-  A blessing in disguise  Something good that     Losing that job was a
-                          initially seems bad     blessing in disguise.
-
-  A drop in the ocean     A very small amount     This donation is a drop
-                                                  in the ocean.
-
-  A big fish              An important person     He is a big fish in the
-                                                  industry.
-
-  The last straw          The final problem that  His lateness was the
-                          makes a situation       last straw.
-                          unbearable              
-
-  A hot potato            A controversial issue   Immigration has become
-                                                  a political hot potato.
-
-  A silver lining         A positive aspect of a  The silver lining was
-                          difficult situation     that we learned a lot.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| A piece of cake | Something very easy | The test was a piece of cake. |
+| A blessing in disguise | Something good that initially seems bad | Losing that job was a blessing in disguise. |
+| A drop in the ocean | A very small amount | This donation is a drop in the ocean. |
+| A big fish | An important person | He is a big fish in the industry. |
+| The last straw | The final problem that makes a situation unbearable | His lateness was the last straw. |
+| A hot potato | A controversial issue | Immigration has become a political hot potato. |
+| A silver lining | A positive aspect of a difficult situation | The silver lining was that we learned a lot. |
 
 ## 3.2 Verb-based idioms
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  Break the ice           Make people feel        He told a joke to break
-                          comfortable             the ice.
-
-  Spill the beans         Reveal a secret         She spilled the beans
-                                                  about the surprise.
-
-  Hit the nail on the     Identify something      You hit the nail on the
-  head                    exactly                 head.
-
-  Bite the bullet         Face something          I decided to bite the
-                          difficult               bullet and apologise.
-
-  Burn the midnight oil   Work or study late      I burned the midnight
-                                                  oil before the exam.
-
-  Pull someone's leg      Tease someone           Relax, I'm just pulling
-                                                  your leg.
-
-  Cost an arm and a leg   Be extremely expensive  That car costs an arm
-                                                  and a leg.
-
-  Keep your fingers       Hope for a positive     Keep your fingers
-  crossed                 outcome                 crossed for me.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| Break the ice | Make people feel comfortable | He told a joke to break the ice. |
+| Spill the beans | Reveal a secret | She spilled the beans about the surprise. |
+| Hit the nail on the head | Identify something exactly | You hit the nail on the head. |
+| Bite the bullet | Face something difficult | I decided to bite the bullet and apologise. |
+| Burn the midnight oil | Work or study late | I burned the midnight oil before the exam. |
+| Pull someone's leg | Tease someone | Relax, I'm just pulling your leg. |
+| Cost an arm and a leg | Be extremely expensive | That car costs an arm and a leg. |
+| Keep your fingers crossed | Hope for a positive outcome | Keep your fingers crossed for me. |
 
 ## 3.3 Prepositional idioms
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  In hot water            In trouble              He got into hot water
-                                                  at work.
-
-  Out of the blue         Unexpectedly            She called me out of
-                                                  the blue.
-
-  Under the weather       Feeling unwell          I'm a little under the
-                                                  weather.
-
-  At the drop of a hat    Immediately, without    He would travel at the
-                          hesitation              drop of a hat.
-
-  On cloud nine           Extremely happy         She was on cloud nine.
-
-  In the long run         Over a long period      Exercise is beneficial
-                                                  in the long run.
-
-  By all means            Certainly; go ahead     By all means, use my
-                                                  notes.
-
-  At odds with            In disagreement with    His opinion is at odds
-                                                  with mine.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| In hot water | In trouble | He got into hot water at work. |
+| Out of the blue | Unexpectedly | She called me out of the blue. |
+| Under the weather | Feeling unwell | I'm a little under the weather. |
+| At the drop of a hat | Immediately, without hesitation | He would travel at the drop of a hat. |
+| On cloud nine | Extremely happy | She was on cloud nine. |
+| In the long run | Over a long period | Exercise is beneficial in the long run. |
+| By all means | Certainly; go ahead | By all means, use my notes. |
+| At odds with | In disagreement with | His opinion is at odds with mine. |
 
 ## 3.4 Simile-based idioms
 
-  Idiom                      Meaning
-  -------------------------- ------------------------------------------
-  As busy as a bee           Extremely busy
-  As cool as a cucumber      Calm under pressure
-  As blind as a bat          Having very poor eyesight
-  As stubborn as a mule      Extremely stubborn
-  As fit as a fiddle         Very healthy
-  As light as a feather      Extremely light
-  Like a fish out of water   Uncomfortable in an unfamiliar situation
-  Like two peas in a pod     Very similar
+| Idiom | Meaning |
+| --- | --- |
+| As busy as a bee | Extremely busy |
+| As cool as a cucumber | Calm under pressure |
+| As blind as a bat | Having very poor eyesight |
+| As stubborn as a mule | Extremely stubborn |
+| As fit as a fiddle | Very healthy |
+| As light as a feather | Extremely light |
+| Like a fish out of water | Uncomfortable in an unfamiliar situation |
+| Like two peas in a pod | Very similar |
 
 Examples: "My mother is as busy as a bee during festivals." "She
 remained as cool as a cucumber during the interview." "I felt like a
@@ -264,68 +195,28 @@ fish out of water when I moved abroad."
 
 # 4. Common Idioms for Everyday Conversations
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  A piece of cake         Very easy               The test was a piece of
-                                                  cake.
-
-  Break the ice           Make people comfortable He told a joke to break
-                                                  the ice.
-
-  Once in a blue moon     Very rarely             I eat fast food once in
-                                                  a blue moon.
-
-  Under the weather       Feeling unwell          I'm feeling under the
-                                                  weather.
-
-  Out of the blue         Unexpectedly            She called me out of
-                                                  the blue.
-
-  Get the hang of it      Learn how to do         I'm getting the hang of
-                          something               driving.
-
-  Call it a day           Stop working            Let's call it a day.
-
-  Hang in there           Remain patient          Hang in there; things
-                                                  will improve.
-
-  No big deal             Not a serious problem   Don't worry. It's no
-                                                  big deal.
-
-  Take it easy            Relax                   Take it easy this
-                                                  weekend.
-
-  Better late than never  Late action is better   Better late than never.
-                          than no action          
-
-  So far, so good         Things are going well   How's your new job? So
-                          until now               far, so good.
-
-  Keep your chin up       Remain positive         Keep your chin up.
-
-  The last straw          Final unacceptable      His lateness was the
-                          thing                   last straw.
-
-  Get out of hand         Become uncontrollable   The argument got out of
-                                                  hand.
-
-  Play it by ear          Decide as a situation   We'll play it by ear.
-                          develops                
-
-  In a nutshell           In summary              In a nutshell, the
-                                                  project succeeded.
-
-  Speak of the devil      Said when someone       Speak of the devil!
-                          appears after being     
-                          mentioned               
-
-  Make yourself at home   Feel comfortable        Come in and make
-                                                  yourself at home.
-
-  Give someone a hand     Help someone            Could you give me a
-                                                  hand?
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| A piece of cake | Very easy | The test was a piece of cake. |
+| Break the ice | Make people comfortable | He told a joke to break the ice. |
+| Once in a blue moon | Very rarely | I eat fast food once in a blue moon. |
+| Under the weather | Feeling unwell | I'm feeling under the weather. |
+| Out of the blue | Unexpectedly | She called me out of the blue. |
+| Get the hang of it | Learn how to do something | I'm getting the hang of driving. |
+| Call it a day | Stop working | Let's call it a day. |
+| Hang in there | Remain patient | Hang in there; things will improve. |
+| No big deal | Not a serious problem | Don't worry. It's no big deal. |
+| Take it easy | Relax | Take it easy this weekend. |
+| Better late than never | Late action is better than no action | Better late than never. |
+| So far, so good | Things are going well until now | How's your new job? So far, so good. |
+| Keep your chin up | Remain positive | Keep your chin up. |
+| The last straw | Final unacceptable thing | His lateness was the last straw. |
+| Get out of hand | Become uncontrollable | The argument got out of hand. |
+| Play it by ear | Decide as a situation develops | We'll play it by ear. |
+| In a nutshell | In summary | In a nutshell, the project succeeded. |
+| Speak of the devil | Said when someone appears after being mentioned | Speak of the devil! |
+| Make yourself at home | Feel comfortable | Come in and make yourself at home. |
+| Give someone a hand | Help someone | Could you give me a hand? |
 
 ------------------------------------------------------------------------
 
@@ -333,119 +224,55 @@ fish out of water when I moved abroad."
 
 ## 5.1 Happiness and excitement
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  On cloud nine           Extremely happy         I was on cloud nine
-                                                  after passing.
-
-  Over the moon           Extremely pleased       She was over the moon
-                                                  about her promotion.
-
-  Walking on air          Feeling extremely happy He was walking on air
-                                                  after the wedding.
-
-  Have butterflies in     Feel nervous excitement I had butterflies
-  your stomach                                    before the interview.
-
-  Grin from ear to ear    Smile very broadly      She was grinning from
-                                                  ear to ear.
-
-  Be in high spirits      Be cheerful             Everyone was in high
-                                                  spirits.
-
-  Make someone's day      Make someone very happy Your message made my
-                                                  day.
-
-  Be thrilled to bits     Be extremely delighted  The children were
-                                                  thrilled to bits.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| On cloud nine | Extremely happy | I was on cloud nine after passing. |
+| Over the moon | Extremely pleased | She was over the moon about her promotion. |
+| Walking on air | Feeling extremely happy | He was walking on air after the wedding. |
+| Have butterflies in your stomach | Feel nervous excitement | I had butterflies before the interview. |
+| Grin from ear to ear | Smile very broadly | She was grinning from ear to ear. |
+| Be in high spirits | Be cheerful | Everyone was in high spirits. |
+| Make someone's day | Make someone very happy | Your message made my day. |
+| Be thrilled to bits | Be extremely delighted | The children were thrilled to bits. |
 
 ## 5.2 Sadness and disappointment
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  Down in the dumps       Sad or unhappy          I felt down in the
-                                                  dumps.
-
-  Feel blue               Feel sad                I sometimes feel blue
-                                                  on rainy days.
-
-  Have a heavy heart      Feel deep sadness       She left with a heavy
-                                                  heart.
-
-  A bitter pill to        An unpleasant fact to   Losing was a bitter
-  swallow                 accept                  pill to swallow.
-
-  Get something off your  Talk about something    I needed to get it off
-  chest                   troubling you           my chest.
-
-  At a low point          Experiencing a          He was at a low point
-                          difficult period        in his career.
-
-  Cry your eyes out       Cry intensely           She cried her eyes out.
-
-  Take something to heart Be deeply affected      Don't take every
-                                                  criticism to heart.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| Down in the dumps | Sad or unhappy | I felt down in the dumps. |
+| Feel blue | Feel sad | I sometimes feel blue on rainy days. |
+| Have a heavy heart | Feel deep sadness | She left with a heavy heart. |
+| A bitter pill to swallow | An unpleasant fact to accept | Losing was a bitter pill to swallow. |
+| Get something off your chest | Talk about something troubling you | I needed to get it off my chest. |
+| At a low point | Experiencing a difficult period | He was at a low point in his career. |
+| Cry your eyes out | Cry intensely | She cried her eyes out. |
+| Take something to heart | Be deeply affected | Don't take every criticism to heart. |
 
 ## 5.3 Anger and frustration
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  Blow a fuse             Become extremely angry  Dad blew a fuse.
-
-  Hit the roof            Become very angry       She hit the roof when
-                                                  she found out.
-
-  Lose your temper        Become angry            He rarely loses his
-                                                  temper.
-
-  Get on someone's nerves Annoy someone           Loud chewing gets on my
-                                                  nerves.
-
-  Rub someone the wrong   Irritate someone        His attitude rubbed me
-  way                                             the wrong way.
-
-  See red                 Become extremely angry  I saw red when I heard
-                                                  the accusation.
-
-  Have a short fuse       Become angry easily     He has a short fuse.
-
-  Add fuel to the fire    Make a bad situation    His comments added fuel
-                          worse                   to the fire.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| Blow a fuse | Become extremely angry | Dad blew a fuse. |
+| Hit the roof | Become very angry | She hit the roof when she found out. |
+| Lose your temper | Become angry | He rarely loses his temper. |
+| Get on someone's nerves | Annoy someone | Loud chewing gets on my nerves. |
+| Rub someone the wrong way | Irritate someone | His attitude rubbed me the wrong way. |
+| See red | Become extremely angry | I saw red when I heard the accusation. |
+| Have a short fuse | Become angry easily | He has a short fuse. |
+| Add fuel to the fire | Make a bad situation worse | His comments added fuel to the fire. |
 
 ## 5.4 Fear, worry and relief
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  Get cold feet           Become nervous before   She got cold feet
-                          doing something         before the performance.
-
-  Have your heart in your Feel extremely anxious  My heart was in my
-  mouth                                           mouth.
-
-  Be on edge              Feel nervous or tense   Everyone was on edge.
-
-  Lose sleep over         Worry a lot             I won't lose sleep over
-  something                                       a small mistake.
-
-  A weight off your       A great feeling of      Passing was a weight
-  shoulders               relief                  off my shoulders.
-
-  Breathe a sigh of       Feel relieved           We breathed a sigh of
-  relief                                          relief.
-
-  Keep your cool          Remain calm             Keep your cool during
-                                                  an argument.
-
-  In a panic              In sudden fear or worry I searched for my
-                                                  passport in a panic.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| Get cold feet | Become nervous before doing something | She got cold feet before the performance. |
+| Have your heart in your mouth | Feel extremely anxious | My heart was in my mouth. |
+| Be on edge | Feel nervous or tense | Everyone was on edge. |
+| Lose sleep over something | Worry a lot | I won't lose sleep over a small mistake. |
+| A weight off your shoulders | A great feeling of relief | Passing was a weight off my shoulders. |
+| Breathe a sigh of relief | Feel relieved | We breathed a sigh of relief. |
+| Keep your cool | Remain calm | Keep your cool during an argument. |
+| In a panic | In sudden fear or worry | I searched for my passport in a panic. |
 
 ------------------------------------------------------------------------
 
@@ -453,73 +280,33 @@ fish out of water when I moved abroad."
 
 ## 6.1 Friendship and relationships
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  See eye to eye          Agree                   We don't always see eye
-                                                  to eye.
-
-  Get on like a house on  Become friendly quickly We got on like a house
-  fire                                            on fire.
-
-  Be on the same          Think similarly         We are on the same
-  wavelength                                      wavelength.
-
-  Through thick and thin  During good and bad     True friends stay
-                          times                   through thick and thin.
-
-  Know someone inside out Know someone very well  I know her inside out.
-
-  Be there for someone    Support someone         My family is always
-                                                  there for me.
-
-  A shoulder to cry on    Someone who provides    My sister is a shoulder
-                          emotional support       to cry on.
-
-  Keep someone at arm's   Avoid becoming too      He keeps strangers at
-  length                  close                   arm's length.
-
-  Bury the hatchet        End an argument         They buried the
-                                                  hatchet.
-
-  Kiss and make up        Become friendly after   They kissed and made
-                          an argument             up.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| See eye to eye | Agree | We don't always see eye to eye. |
+| Get on like a house on fire | Become friendly quickly | We got on like a house on fire. |
+| Be on the same wavelength | Think similarly | We are on the same wavelength. |
+| Through thick and thin | During good and bad times | True friends stay through thick and thin. |
+| Know someone inside out | Know someone very well | I know her inside out. |
+| Be there for someone | Support someone | My family is always there for me. |
+| A shoulder to cry on | Someone who provides emotional support | My sister is a shoulder to cry on. |
+| Keep someone at arm's length | Avoid becoming too close | He keeps strangers at arm's length. |
+| Bury the hatchet | End an argument | They buried the hatchet. |
+| Kiss and make up | Become friendly after an argument | They kissed and made up. |
 
 ## 6.2 Personality and character
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  A heart of gold         A very kind nature      My grandmother has a
-                                                  heart of gold.
-
-  As good as gold         Very well behaved       The children were as
-                                                  good as gold.
-
-  A tough cookie          A strong person         She is a tough cookie.
-                          difficult to defeat     
-
-  A social butterfly      Someone who enjoys      My cousin is a social
-                          meeting people          butterfly.
-
-  A dark horse            Someone with unexpected He was a dark horse in
-                          ability                 the competition.
-
-  A people person         Someone who enjoys      She is a natural people
-                          interacting             person.
-
-  A pain in the neck      An annoying person or   This paperwork is a
-                          thing                   pain in the neck.
-
-  Full of oneself         Overly self-important   He is full of himself.
-
-  Have a good head on     Be sensible and         She has a good head on
-  your shoulders          intelligent             her shoulders.
-
-  Wear your heart on your Show emotions openly    He wears his heart on
-  sleeve                                          his sleeve.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| A heart of gold | A very kind nature | My grandmother has a heart of gold. |
+| As good as gold | Very well behaved | The children were as good as gold. |
+| A tough cookie | A strong person difficult to defeat | She is a tough cookie. |
+| A social butterfly | Someone who enjoys meeting people | My cousin is a social butterfly. |
+| A dark horse | Someone with unexpected ability | He was a dark horse in the competition. |
+| A people person | Someone who enjoys interacting | She is a natural people person. |
+| A pain in the neck | An annoying person or thing | This paperwork is a pain in the neck. |
+| Full of oneself | Overly self-important | He is full of himself. |
+| Have a good head on your shoulders | Be sensible and intelligent | She has a good head on her shoulders. |
+| Wear your heart on your sleeve | Show emotions openly | He wears his heart on his sleeve. |
 
 ## 6.3 Social behaviour
 
@@ -545,38 +332,18 @@ Difficult times reveal fair-weather friends.
 
 ## 7.1 Work and productivity
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  Burn the midnight oil   Work or study late      I burned the midnight
-                                                  oil.
-
-  Learn the ropes         Learn how a job works   It took me a month to
-                                                  learn the ropes.
-
-  Get down to business    Start serious work      Let's get down to
-                                                  business.
-
-  Call it a day           Stop working            Let's call it a day.
-
-  Be snowed under         Have too much work      I'm snowed under with
-                                                  assignments.
-
-  Back to the drawing     Start planning again    It's back to the
-  board                   after failure           drawing board.
-
-  Think outside the box   Think creatively        We need to think
-                                                  outside the box.
-
-  Pull your weight        Do your fair share      Everyone must pull
-                                                  their weight.
-
-  Go the extra mile       Make more effort than   She goes the extra mile
-                          expected                for clients.
-
-  Keep your nose to the   Work hard continuously  He kept his nose to the
-  grindstone                                      grindstone.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| Burn the midnight oil | Work or study late | I burned the midnight oil. |
+| Learn the ropes | Learn how a job works | It took me a month to learn the ropes. |
+| Get down to business | Start serious work | Let's get down to business. |
+| Call it a day | Stop working | Let's call it a day. |
+| Be snowed under | Have too much work | I'm snowed under with assignments. |
+| Back to the drawing board | Start planning again after failure | It's back to the drawing board. |
+| Think outside the box | Think creatively | We need to think outside the box. |
+| Pull your weight | Do your fair share | Everyone must pull their weight. |
+| Go the extra mile | Make more effort than expected | She goes the extra mile for clients. |
+| Keep your nose to the grindstone | Work hard continuously | He kept his nose to the grindstone. |
 
 ## 7.2 Education and learning
 
@@ -618,55 +385,23 @@ strength.
 
 # 8. Idioms Related to Money and Business
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  Cost an arm and a leg   Be extremely expensive  The renovation cost an
-                                                  arm and a leg.
-
-  Break the bank          Spend more than one can We want a holiday that
-                          afford                  won't break the bank.
-
-  Make ends meet          Have enough for basic   Families struggle to
-                          expenses                make ends meet.
-
-  Save for a rainy day    Save for future         Save for a rainy day.
-                          difficulties            
-
-  Money doesn't grow on   Money is limited and    Money doesn't grow on
-  trees                   must be earned          trees.
-
-  Tighten your belt       Spend less              We had to tighten our
-                                                  belts.
-
-  Bring home the bacon    Earn money to support a Both parents work to
-                          family                  bring home the bacon.
-
-  Cash cow                Product or business     That product is the
-                          generating steady       company's cash cow.
-                          profit                  
-
-  In the red              Operating at a loss or  The business is in the
-                          owing money             red.
-
-  In the black            Financially profitable  The company is finally
-                                                  in the black.
-
-  A nest egg              Money saved for the     They built a nest egg
-                          future                  for retirement.
-
-  Put your money where    Support words with      Put your money where
-  your mouth is           action or money         your mouth is.
-
-  A quick buck            Money earned quickly    Some try to make a
-                                                  quick buck online.
-
-  Penny-pinching          Excessively careful     His penny-pinching
-                          with spending           frustrates his family.
-
-  Worth every penny       Fully deserving the     The course was worth
-                          money spent             every penny.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| Cost an arm and a leg | Be extremely expensive | The renovation cost an arm and a leg. |
+| Break the bank | Spend more than one can afford | We want a holiday that won't break the bank. |
+| Make ends meet | Have enough for basic expenses | Families struggle to make ends meet. |
+| Save for a rainy day | Save for future difficulties | Save for a rainy day. |
+| Money doesn't grow on trees | Money is limited and must be earned | Money doesn't grow on trees. |
+| Tighten your belt | Spend less | We had to tighten our belts. |
+| Bring home the bacon | Earn money to support a family | Both parents work to bring home the bacon. |
+| Cash cow | Product or business generating steady profit | That product is the company's cash cow. |
+| In the red | Operating at a loss or owing money | The business is in the red. |
+| In the black | Financially profitable | The company is finally in the black. |
+| A nest egg | Money saved for the future | They built a nest egg for retirement. |
+| Put your money where your mouth is | Support words with action or money | Put your money where your mouth is. |
+| A quick buck | Money earned quickly | Some try to make a quick buck online. |
+| Penny-pinching | Excessively careful with spending | His penny-pinching frustrates his family. |
+| Worth every penny | Fully deserving the money spent | The course was worth every penny. |
 
 ------------------------------------------------------------------------
 
@@ -711,69 +446,26 @@ ball is in your court.
 
 # 10. Idioms Related to Problems, Challenges and Difficult Situations
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  Bite the bullet         Face something          I had to bite the
-                          difficult bravely       bullet and apologise.
-
-  Face the music          Accept unpleasant       He had to face the
-                          consequences            music.
-
-  When the going gets     Strong people act with  Remember: when the
-  tough, the tough get    determination in        going gets tough, the
-  going                   difficulty              tough get going.
-
-  A blessing in disguise  Something apparently    Missing the train was a
-                          bad that leads to good  blessing in disguise.
-
-  Every cloud has a       Most difficult          Every cloud has a
-  silver lining           situations have a       silver lining.
-                          positive side           
-
-  Add fuel to the fire    Make a problem worse    His reaction added fuel
-                                                  to the fire.
-
-  Open a can of worms     Create many new         Changing the policy
-                          problems                could open a can of
-                                                  worms.
-
-  The tip of the iceberg  Small visible part of a The complaints are the
-                          bigger problem          tip of the iceberg.
-
-  Between a rock and a    Caught between two      Workers felt between a
-  hard place              difficult choices       rock and a hard place.
-
-  Weather the storm       Survive a difficult     The business weathered
-                          period                  the storm.
-
-  Keep your head above    Manage to survive       I'm working extra hours
-  water                   financially or          to keep my head above
-                          emotionally             water.
-
-  Back against the wall   In a difficult          We had our backs
-                          situation with few      against the wall.
-                          options                 
-
-  Light at the end of the Sign that a difficult   There is light at the
-  tunnel                  situation may end       end of the tunnel.
-
-  A tough nut to crack    A difficult problem or  This question is a
-                          person                  tough nut to crack.
-
-  The writing on the wall Signs something bad is  The company ignored the
-                          likely                  writing on the wall.
-
-  Out of the frying pan   Move from a bad         He went out of the
-  into the fire           situation to a worse    frying pan into the
-                          one                     fire.
-
-  Put all your eggs in    Risk everything on one  Don't put all your eggs
-  one basket              plan                    in one basket.
-
-  A double-edged sword    Something with benefits Social media is a
-                          and drawbacks           double-edged sword.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| Bite the bullet | Face something difficult bravely | I had to bite the bullet and apologise. |
+| Face the music | Accept unpleasant consequences | He had to face the music. |
+| When the going gets tough, the tough get going | Strong people act with determination in difficulty | Remember: when the going gets tough, the tough get going. |
+| A blessing in disguise | Something apparently bad that leads to good | Missing the train was a blessing in disguise. |
+| Every cloud has a silver lining | Most difficult situations have a positive side | Every cloud has a silver lining. |
+| Add fuel to the fire | Make a problem worse | His reaction added fuel to the fire. |
+| Open a can of worms | Create many new problems | Changing the policy could open a can of worms. |
+| The tip of the iceberg | Small visible part of a bigger problem | The complaints are the tip of the iceberg. |
+| Between a rock and a hard place | Caught between two difficult choices | Workers felt between a rock and a hard place. |
+| Weather the storm | Survive a difficult period | The business weathered the storm. |
+| Keep your head above water | Manage to survive financially or emotionally | I'm working extra hours to keep my head above water. |
+| Back against the wall | In a difficult situation with few options | We had our backs against the wall. |
+| Light at the end of the tunnel | Sign that a difficult situation may end | There is light at the end of the tunnel. |
+| A tough nut to crack | A difficult problem or person | This question is a tough nut to crack. |
+| The writing on the wall | Signs something bad is likely | The company ignored the writing on the wall. |
+| Out of the frying pan into the fire | Move from a bad situation to a worse one | He went out of the frying pan into the fire. |
+| Put all your eggs in one basket | Risk everything on one plan | Don't put all your eggs in one basket. |
+| A double-edged sword | Something with benefits and drawbacks | Social media is a double-edged sword. |
 
 ------------------------------------------------------------------------
 
@@ -781,87 +473,36 @@ ball is in your court.
 
 ## 11.1 Food-related idioms
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  A piece of cake         Very easy               The task was a piece of
-                                                  cake.
-
-  Spill the beans         Reveal a secret         Don't spill the beans.
-
-  The apple of someone's  A person who is         His granddaughter is
-  eye                     cherished               the apple of his eye.
-
-  Big cheese              An important person     He thinks he is the big
-                                                  cheese.
-
-  Full of beans           Energetic               The children were full
-                                                  of beans.
-
-  Have bigger fish to fry Have more important     I have bigger fish to
-                          things to do            fry.
-
-  Bring home the bacon    Earn money for the      She works to bring home
-                          family                  the bacon.
-
-  Cry over spilled milk   Be upset about what     Don't cry over spilled
-                          cannot be changed       milk.
-
-  Take something with a   Be sceptical            Take online rumours
-  pinch of salt                                   with a pinch of salt.
-
-  Butter someone up       Flatter someone for an  He tried to butter up
-                          advantage               the manager.
-
-  Have your cake and eat  Want two incompatible   You cannot have your
-  it too                  advantages              cake and eat it too.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| A piece of cake | Very easy | The task was a piece of cake. |
+| Spill the beans | Reveal a secret | Don't spill the beans. |
+| The apple of someone's eye | A person who is cherished | His granddaughter is the apple of his eye. |
+| Big cheese | An important person | He thinks he is the big cheese. |
+| Full of beans | Energetic | The children were full of beans. |
+| Have bigger fish to fry | Have more important things to do | I have bigger fish to fry. |
+| Bring home the bacon | Earn money for the family | She works to bring home the bacon. |
+| Cry over spilled milk | Be upset about what cannot be changed | Don't cry over spilled milk. |
+| Take something with a pinch of salt | Be sceptical | Take online rumours with a pinch of salt. |
+| Butter someone up | Flatter someone for an advantage | He tried to butter up the manager. |
+| Have your cake and eat it too | Want two incompatible advantages | You cannot have your cake and eat it too. |
 
 ## 11.2 Animal-related idioms
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  Let the cat out of the  Reveal a secret         He let the cat out of
-  bag                                             the bag.
-
-  The elephant in the     An obvious issue people We must address the
-  room                    avoid discussing        elephant in the room.
-
-  A fish out of water     Uncomfortable in an     I felt like a fish out
-                          unfamiliar situation    of water.
-
-  Hold your horses        Wait or be patient      Hold your horses; we're
-                                                  not ready.
-
-  Kill two birds with one Achieve two things with I walked to work to
-  stone                   one action              exercise and save
-                                                  money.
-
-  The lion's share        The largest portion     The company receives
-                                                  the lion's share.
-
-  A wild goose chase      A pointless search      Looking for that file
-                                                  was a wild goose chase.
-
-  Until the cows come     For a very long time    We could discuss this
-  home                                            until the cows come
-                                                  home.
-
-  A dark horse            An unexpected           She was the dark horse
-                          competitor or hidden    of the competition.
-                          talent                  
-
-  Take the bull by the    Deal with a problem     Take the bull by the
-  horns                   directly                horns.
-
-  Make a mountain out of  Exaggerate a small      You're making a
-  a molehill              problem                 mountain out of a
-                                                  molehill.
-
-  The early bird catches  Acting early gives an   Apply early; the early
-  the worm                advantage               bird catches the worm.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| Let the cat out of the bag | Reveal a secret | He let the cat out of the bag. |
+| The elephant in the room | An obvious issue people avoid discussing | We must address the elephant in the room. |
+| A fish out of water | Uncomfortable in an unfamiliar situation | I felt like a fish out of water. |
+| Hold your horses | Wait or be patient | Hold your horses; we're not ready. |
+| Kill two birds with one stone | Achieve two things with one action | I walked to work to exercise and save money. |
+| The lion's share | The largest portion | The company receives the lion's share. |
+| A wild goose chase | A pointless search | Looking for that file was a wild goose chase. |
+| Until the cows come home | For a very long time | We could discuss this until the cows come home. |
+| A dark horse | An unexpected competitor or hidden talent | She was the dark horse of the competition. |
+| Take the bull by the horns | Deal with a problem directly | Take the bull by the horns. |
+| Make a mountain out of a molehill | Exaggerate a small problem | You're making a mountain out of a molehill. |
+| The early bird catches the worm | Acting early gives an advantage | Apply early; the early bird catches the worm. |
 
 ## 11.3 Weather and nature-related idioms
 
@@ -890,167 +531,65 @@ not make an answer better.
 
 ## 12.1 Opinions and arguments
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  A double-edged sword    Something with benefits Technology can be a
-                          and drawbacks           double-edged sword.
-
-  The other side of the   An alternative          The other side of the
-  coin                    perspective             coin is that tourism
-                                                  can damage local
-                                                  culture.
-
-  A case in point         A relevant example      Public transport is a
-                                                  case in point.
-
-  Beg the question        Raise a question that   This decision begs the
-                          needs answering         question of who will
-                                                  pay.
-
-  At face value           Accept something as it  Don't take every online
-                          appears                 claim at face value.
-
-  Read between the lines  Understand implied      Read between the lines
-                          meaning                 of the report.
-
-  The bottom line         The most important      The bottom line is that
-                          conclusion              prevention is cheaper.
-
-  Put things into         Understand true         Travel can put things
-  perspective             importance              into perspective.
-
-  A far cry from          Very different from     This system is a far
-                                                  cry from what we need.
-
-  By the same token       For the same reason     By the same token,
-                                                  employers must support
-                                                  staff.
-
-  In the same vein        In a similar way        In the same vein,
-                                                  schools should
-                                                  encourage creativity.
-
-  A moot point            A point open to debate  Whether the old policy
-                          or no longer            worked is now a moot
-                          practically relevant    point.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| A double-edged sword | Something with benefits and drawbacks | Technology can be a double-edged sword. |
+| The other side of the coin | An alternative perspective | The other side of the coin is that tourism can damage local culture. |
+| A case in point | A relevant example | Public transport is a case in point. |
+| Beg the question | Raise a question that needs answering | This decision begs the question of who will pay. |
+| At face value | Accept something as it appears | Don't take every online claim at face value. |
+| Read between the lines | Understand implied meaning | Read between the lines of the report. |
+| The bottom line | The most important conclusion | The bottom line is that prevention is cheaper. |
+| Put things into perspective | Understand true importance | Travel can put things into perspective. |
+| A far cry from | Very different from | This system is a far cry from what we need. |
+| By the same token | For the same reason | By the same token, employers must support staff. |
+| In the same vein | In a similar way | In the same vein, schools should encourage creativity. |
+| A moot point | A point open to debate or no longer practically relevant | Whether the old policy worked is now a moot point. |
 
 ## 12.2 People and behaviour
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  Have an axe to grind    Have a personal reason  The speaker may have an
-                          or bias                 axe to grind.
-
-  Sit on the fence        Avoid choosing a side   Politicians cannot sit
-                                                  on the fence forever.
-
-  Play devil's advocate   Argue an opposing       Let me play devil's
-                          position to test an     advocate.
-                          idea                    
-
-  Pull strings            Use influence to get    He got the position by
-                          something done          pulling strings.
-
-  Call someone's bluff    Challenge someone to    The manager called his
-                          prove a claim           bluff.
-
-  Get the wrong end of    Misunderstand something You've got the wrong
-  the stick                                       end of the stick.
-
-  Keep someone in the     Keep someone informed   Keep me in the loop.
-  loop                                            
-
-  Leave someone in the    Abandon someone who     They left us in the
-  lurch                   needs help              lurch.
-
-  Have your hands full    Be very busy            I have my hands full
-                                                  with work.
-
-  Be a law unto yourself  Behave without          He acts like a law unto
-                          following rules         himself.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| Have an axe to grind | Have a personal reason or bias | The speaker may have an axe to grind. |
+| Sit on the fence | Avoid choosing a side | Politicians cannot sit on the fence forever. |
+| Play devil's advocate | Argue an opposing position to test an idea | Let me play devil's advocate. |
+| Pull strings | Use influence to get something done | He got the position by pulling strings. |
+| Call someone's bluff | Challenge someone to prove a claim | The manager called his bluff. |
+| Get the wrong end of the stick | Misunderstand something | You've got the wrong end of the stick. |
+| Keep someone in the loop | Keep someone informed | Keep me in the loop. |
+| Leave someone in the lurch | Abandon someone who needs help | They left us in the lurch. |
+| Have your hands full | Be very busy | I have my hands full with work. |
+| Be a law unto yourself | Behave without following rules | He acts like a law unto himself. |
 
 ## 12.3 Change and consequences
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  Turn over a new leaf    Make a fresh start      He turned over a new
-                                                  leaf.
-
-  The domino effect       A chain reaction        Fuel prices can have a
-                                                  domino effect.
-
-  Set the ball rolling    Start a process         The meeting set the
-                                                  ball rolling.
-
-  Open the floodgates     Allow many things to    The decision could open
-                          happen rapidly          the floodgates.
-
-  Cross that bridge when  Deal with a problem     Let's cross that bridge
-  you come to it          when it occurs          when we come to it.
-
-  Go back to square one   Return to the beginning The plan failed, so we
-                          after failure           went back to square
-                                                  one.
-
-  A ripple effect         A series of indirect    The policy had a ripple
-                          consequences            effect.
-
-  Set a precedent         Establish an example    The judgement could set
-                          for future cases        a precedent.
-
-  Make a world of         Have a significant      Encouragement can make
-  difference              positive effect         a world of difference.
-
-  Change hands            Pass to a new owner     The business changed
-                                                  hands.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| Turn over a new leaf | Make a fresh start | He turned over a new leaf. |
+| The domino effect | A chain reaction | Fuel prices can have a domino effect. |
+| Set the ball rolling | Start a process | The meeting set the ball rolling. |
+| Open the floodgates | Allow many things to happen rapidly | The decision could open the floodgates. |
+| Cross that bridge when you come to it | Deal with a problem when it occurs | Let's cross that bridge when we come to it. |
+| Go back to square one | Return to the beginning after failure | The plan failed, so we went back to square one. |
+| A ripple effect | A series of indirect consequences | The policy had a ripple effect. |
+| Set a precedent | Establish an example for future cases | The judgement could set a precedent. |
+| Make a world of difference | Have a significant positive effect | Encouragement can make a world of difference. |
+| Change hands | Pass to a new owner | The business changed hands. |
 
 ## 12.4 Risk and opportunity
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  Take a leap of faith    Act despite uncertainty Starting a business
-                                                  requires a leap of
-                                                  faith.
-
-  Take the plunge         Make a bold decision    She took the plunge and
-                                                  moved abroad.
-
-  A golden opportunity    An excellent chance     The scholarship was a
-                                                  golden opportunity.
-
-  Miss the boat           Lose an opportunity     We missed the boat by
-                                                  applying too late.
-
-  Play with fire          Take a dangerous risk   Sharing confidential
-                                                  information is playing
-                                                  with fire.
-
-  Go out on a limb        Take a risk by          I'm going out on a limb
-                          supporting an uncertain by recommending this.
-                          position                
-
-  A long shot             Something unlikely to   Getting the scholarship
-                          succeed                 seemed a long shot.
-
-  Nothing ventured,       Progress requires risk  Apply; nothing
-  nothing gained                                  ventured, nothing
-                                                  gained.
-
-  Put your best foot      Make the best           Put your best foot
-  forward                 impression              forward at the
-                                                  interview.
-
-  The world is your       Many opportunities are  With the right skills,
-  oyster                  available               the world is your
-                                                  oyster.
-  -----------------------------------------------------------------------
+| Idiom | Meaning | Example |
+| --- | --- | --- |
+| Take a leap of faith | Act despite uncertainty | Starting a business requires a leap of faith. |
+| Take the plunge | Make a bold decision | She took the plunge and moved abroad. |
+| A golden opportunity | An excellent chance | The scholarship was a golden opportunity. |
+| Miss the boat | Lose an opportunity | We missed the boat by applying too late. |
+| Play with fire | Take a dangerous risk | Sharing confidential information is playing with fire. |
+| Go out on a limb | Take a risk by supporting an uncertain position | I'm going out on a limb by recommending this. |
+| A long shot | Something unlikely to succeed | Getting the scholarship seemed a long shot. |
+| Nothing ventured, nothing gained | Progress requires risk | Apply; nothing ventured, nothing gained. |
+| Put your best foot forward | Make the best impression | Put your best foot forward at the interview. |
+| The world is your oyster | Many opportunities are available | With the right skills, the world is your oyster. |
 
 ------------------------------------------------------------------------
 
@@ -1135,30 +674,16 @@ Run into --- meet unexpectedly.
 Short, commonly known sayings expressing advice, wisdom or a general
 truth.
 
-  -----------------------------------------------------------------------
-  Proverb                             Meaning
-  ----------------------------------- -----------------------------------
-  Actions speak louder than words.    What people do matters more than
-                                      what they say.
-
-  Practice makes perfect.             Repeated practice improves ability.
-
-  Better safe than sorry.             It is wiser to avoid risks than
-                                      regret them.
-
-  Don't judge a book by its cover.    Do not judge by appearance alone.
-
-  Where there's a will, there's a     Determination helps people find
-  way.                                solutions.
-
-  Two heads are better than one.      Cooperation can produce better
-                                      ideas.
-
-  The early bird catches the worm.    Acting early can provide an
-                                      advantage.
-
-  Honesty is the best policy.         Being truthful is generally best.
-  -----------------------------------------------------------------------
+| Proverb | Meaning |
+| --- | --- |
+| Actions speak louder than words. | What people do matters more than what they say. |
+| Practice makes perfect. | Repeated practice improves ability. |
+| Better safe than sorry. | It is wiser to avoid risks than regret them. |
+| Don't judge a book by its cover. | Do not judge by appearance alone. |
+| Where there's a will, there's a way. | Determination helps people find solutions. |
+| Two heads are better than one. | Cooperation can produce better ideas. |
+| The early bird catches the worm. | Acting early can provide an advantage. |
+| Honesty is the best policy. | Being truthful is generally best. |
 
 ## 14.4 Collocations
 
@@ -1168,20 +693,12 @@ sleep. - Pay attention. - Highly recommended. - Raise awareness.
 
 ## 14.5 Comparison
 
-  -----------------------------------------------------------------------
-  Category                Main feature            Example
-  ----------------------- ----------------------- -----------------------
-  Idiom                   Figurative or           A piece of cake
-                          conventional expression 
-
-  Phrasal verb            Verb + particle         Give up
-
-  Proverb                 Saying expressing       Practice makes perfect
-                          advice or wisdom        
-
-  Collocation             Words that naturally go Make a decision
-                          together                
-  -----------------------------------------------------------------------
+| Category | Main feature | Example |
+| --- | --- | --- |
+| Idiom | Figurative or conventional expression | A piece of cake |
+| Phrasal verb | Verb + particle | Give up |
+| Proverb | Saying expressing advice or wisdom | Practice makes perfect |
+| Collocation | Words that naturally go together | Make a decision |
 
 Categories can overlap. Some idioms contain phrasal verbs, and
 expressions may be analysed differently depending on the linguistic
@@ -1220,27 +737,14 @@ off his chest. - Have your hands full. - She has her hands full.
 
 ## 15.4 Tense changes
 
-  -----------------------------------------------------------------------
-  Base expression         Past form               Example
-  ----------------------- ----------------------- -----------------------
-  Spill the beans         Spilled the beans       She spilled the beans
-                                                  yesterday.
-
-  Break the ice           Broke the ice           He broke the ice with a
-                                                  joke.
-
-  Bite the bullet         Bit the bullet          I bit the bullet and
-                                                  apologised.
-
-  Hit the nail on the     Hit the nail on the     You hit the nail on the
-  head                    head                    head.
-
-  Burn the midnight oil   Burned the midnight oil They burned the
-                                                  midnight oil.
-
-  Let the cat out of the  Let the cat out of the  He let the cat out of
-  bag                     bag                     the bag.
-  -----------------------------------------------------------------------
+| Base expression | Past form | Example |
+| --- | --- | --- |
+| Spill the beans | Spilled the beans | She spilled the beans yesterday. |
+| Break the ice | Broke the ice | He broke the ice with a joke. |
+| Bite the bullet | Bit the bullet | I bit the bullet and apologised. |
+| Hit the nail on the head | Hit the nail on the head | You hit the nail on the head. |
+| Burn the midnight oil | Burned the midnight oil | They burned the midnight oil. |
+| Let the cat out of the bag | Let the cat out of the bag | He let the cat out of the bag. |
 
 ## 15.5 Idioms in negative sentences
 
@@ -1260,32 +764,16 @@ off his chest. - Have your hands full. - She has her hands full.
 
 ## 15.7 Common grammatical mistakes
 
-  -----------------------------------------------------------------------
-  Incorrect               Correct                 Explanation
-  ----------------------- ----------------------- -----------------------
-  He is in the cloud      He is on cloud nine.    Correct preposition is
-  nine.                                           *on*.
-
-  It is raining cats and  It is raining cats and  Fixed expression.
-  dogses.                 dogs.                   
-
-  She has a heart of      She has a heart of      Do not pluralise
-  golds.                  gold.                   *gold*.
-
-  He spilled a bean.      He spilled the beans.   Conventional expression
-                                                  uses plural *beans*.
-
-  I am under weather.     I am under the weather. Article is required.
-
-  He hit on the nail's    He hit the nail on the  Keep the word order.
-  head.                   head.                   
-
-  We are in same boat.    We are in the same      Article is required.
-                          boat.                   
-
-  I got cold foot.        I got cold feet.        Idiom uses plural
-                                                  *feet*.
-  -----------------------------------------------------------------------
+| Incorrect | Correct | Explanation |
+| --- | --- | --- |
+| He is in the cloud nine. | He is on cloud nine. | Correct preposition is *on*. |
+| It is raining cats and dogses. | It is raining cats and dogs. | Fixed expression. |
+| She has a heart of golds. | She has a heart of gold. | Do not pluralise *gold*. |
+| He spilled a bean. | He spilled the beans. | Conventional expression uses plural *beans*. |
+| I am under weather. | I am under the weather. | Article is required. |
+| He hit on the nail's head. | He hit the nail on the head. | Keep the word order. |
+| We are in same boat. | We are in the same boat. | Article is required. |
+| I got cold foot. | I got cold feet. | Idiom uses plural *feet*. |
 
 ------------------------------------------------------------------------
 
@@ -1297,44 +785,23 @@ Others are widely accepted in professional communication.
 
 ## 16.1 Informal idioms and neutral alternatives
 
-  -----------------------------------------------------------------------
-  Idiom                   Meaning                 More neutral
-                                                  alternative
-  ----------------------- ----------------------- -----------------------
-  A piece of cake         Very easy               Straightforward
-
-  Cost an arm and a leg   Very expensive          Extremely costly
-
-  Spill the beans         Reveal a secret         Reveal confidential
-                                                  information
-
-  Hit the roof            Become very angry       Become extremely angry
-
-  Pull someone's leg      Tease someone           Joke with someone
-
-  Get cold feet           Become hesitant         Lose confidence
-
-  Bite the bullet         Face something          Confront the situation
-                          difficult               
-
-  Call it a day           Stop working            Conclude the work
-
-  A long shot             An unlikely possibility An unlikely outcome
-
-  In hot water            In trouble              In difficulty
-
-  Make ends meet          Manage financially      Cover basic expenses
-
-  The last straw          Final unacceptable      Final triggering
-                          event                   incident
-
-  Out of the blue         Unexpectedly            Without prior warning
-
-  Keep your fingers       Hope for success        Hope for a positive
-  crossed                                         outcome
-
-  Get the ball rolling    Start a process         Initiate the process
-  -----------------------------------------------------------------------
+| Idiom | Meaning | More neutral alternative |
+| --- | --- | --- |
+| A piece of cake | Very easy | Straightforward |
+| Cost an arm and a leg | Very expensive | Extremely costly |
+| Spill the beans | Reveal a secret | Reveal confidential information |
+| Hit the roof | Become very angry | Become extremely angry |
+| Pull someone's leg | Tease someone | Joke with someone |
+| Get cold feet | Become hesitant | Lose confidence |
+| Bite the bullet | Face something difficult | Confront the situation |
+| Call it a day | Stop working | Conclude the work |
+| A long shot | An unlikely possibility | An unlikely outcome |
+| In hot water | In trouble | In difficulty |
+| Make ends meet | Manage financially | Cover basic expenses |
+| The last straw | Final unacceptable event | Final triggering incident |
+| Out of the blue | Unexpectedly | Without prior warning |
+| Keep your fingers crossed | Hope for success | Hope for a positive outcome |
+| Get the ball rolling | Start a process | Initiate the process |
 
 ## 16.2 Idioms in IELTS Speaking
 
@@ -1956,18 +1423,18 @@ matching exercises and self-assessment tools on a learning website.
 
 ## Exercise 1: Match the idiom with its meaning
 
-  No.   Idiom                      Meaning
-  ----- -------------------------- -------------------------------
-  1     A piece of cake            A. Reveal a secret
-  2     Spill the beans            B. Very rarely
-  3     Under the weather          C. Something very easy
-  4     Once in a blue moon        D. Feeling unwell
-  5     Hit the nail on the head   E. Identify something exactly
-  6     Break the ice              F. Make people comfortable
-  7     Bite the bullet            G. Face something difficult
-  8     On cloud nine              H. Extremely happy
-  9     Cost an arm and a leg      I. Be extremely expensive
-  10    Call it a day              J. Stop working
+| No. | Idiom | Meaning |
+| --- | --- | --- |
+| 1 | A piece of cake | A. Reveal a secret |
+| 2 | Spill the beans | B. Very rarely |
+| 3 | Under the weather | C. Something very easy |
+| 4 | Once in a blue moon | D. Feeling unwell |
+| 5 | Hit the nail on the head | E. Identify something exactly |
+| 6 | Break the ice | F. Make people comfortable |
+| 7 | Bite the bullet | G. Face something difficult |
+| 8 | On cloud nine | H. Extremely happy |
+| 9 | Cost an arm and a leg | I. Be extremely expensive |
+| 10 | Call it a day | J. Stop working |
 
 ```{=html}
 <details>

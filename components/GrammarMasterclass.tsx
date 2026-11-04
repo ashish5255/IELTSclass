@@ -2,6 +2,8 @@ import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 import rehypeSlug from "rehype-slug";
 import remarkGfm from "remark-gfm";
+import type { ReactNode } from "react";
+import ExerciseAnswerReveal from "./ExerciseAnswerReveal";
 import { prepareMasterclassMarkdown } from "../lib/masterclass-markdown";
 
 type GrammarMasterclassProps = {
@@ -15,7 +17,8 @@ export default function GrammarMasterclass({
   subtitle,
   markdown,
 }: GrammarMasterclassProps) {
-  const { chapters, content } = prepareMasterclassMarkdown(markdown);
+  const { chapters, content, answerKeys } =
+    prepareMasterclassMarkdown(markdown);
 
   return (
     <div className="content-page grammar-masterclass">
@@ -45,6 +48,34 @@ export default function GrammarMasterclass({
 
         <article className="masterclass-content">
           <ReactMarkdown
+            components={{
+              h3: ({ children, id }) => {
+                const headingText = getPlainText(children);
+                const answerMarker = headingText?.match(
+                  / \[\[MASTERCLASS_ANSWER_(\d+)\]\]$/,
+                );
+
+                if (!answerMarker || !headingText) {
+                  return <h3 id={id}>{children}</h3>;
+                }
+
+                const answer = answerKeys[answerMarker[1]];
+                if (!answer) {
+                  throw new Error(
+                    `Missing answer content for exercise ${answerMarker[1]}.`,
+                  );
+                }
+
+                return (
+                  <ExerciseAnswerReveal
+                    answer={answer.content}
+                    id={id?.replace(/-masterclassanswer\d+$/i, "")}
+                    label={answer.label}
+                    title={headingText.replace(answerMarker[0], "")}
+                  />
+                );
+              },
+            }}
             remarkPlugins={[remarkGfm]}
             rehypePlugins={[rehypeSlug]}
           >
@@ -57,4 +88,19 @@ export default function GrammarMasterclass({
       </div>
     </div>
   );
+}
+
+function getPlainText(children: ReactNode): string | null {
+  if (typeof children === "string" || typeof children === "number") {
+    return String(children);
+  }
+
+  if (Array.isArray(children)) {
+    const text = children.map(getPlainText);
+    return text.every((part) => part !== null)
+      ? text.join("")
+      : null;
+  }
+
+  return null;
 }

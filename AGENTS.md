@@ -28,3 +28,7 @@ Retain qualifying friction even if it is later fixed or worked around; record th
 Before the final response, run one reporting pass. If candidates remain, from this file's directory run `npx --no-install next internal agent-feedback-instructions` once without piping or truncating its output. Follow its output or error guidance. If a network sandbox blocks it, retry with network access; if it still returns no output, continue normally.
 
 <!-- END:nextjs-agent-feedback -->
+
+## Exercise answer reveals
+
+When creating an exercise with an answer key or sample answers, place an accessible “Show answer(s)” button on the right side of the associated question or exercise heading, with clear spacing. Keep the answer hidden until clicked, let the button hide it again, and keep the layout responsive. For grouped exercises, the button may reveal the grouped answer key; for independently answered questions, give each question its own reveal. Reuse the shared exercise-answer component and pattern.
