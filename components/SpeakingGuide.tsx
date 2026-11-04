@@ -30,11 +30,9 @@ export default function SpeakingGuide() {
             className="speaking-intro__actions"
             aria-label="Speaking practice resources"
           >
-            <a
+            <Link
               className="speaking-resource-link"
-              href="/phrasal-verbs.md"
-              target="_blank"
-              rel="noreferrer"
+              href="/grammar/phrasal-verbs"
             >
               <span className="speaking-resource-link__title">
                 Phrasal Verbs Masterclass
@@ -45,7 +43,7 @@ export default function SpeakingGuide() {
               <span className="speaking-resource-link__action">
                 Explore the guide <span aria-hidden="true">→</span>
               </span>
-            </a>
+            </Link>
             <Link className="speaking-resource-link" href="/grammar/idioms">
               <span className="speaking-resource-link__title">
                 Idioms Masterclass
